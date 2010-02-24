@@ -19,9 +19,7 @@ To build the PDF
 1. Change directory into the language you're building for.
 2. Run::
 
-       $ make latex
-       $ cd build/latex/
-       $ make all-pdf
+       $ make latexpdf
 
 
 To translate the manual
@@ -57,6 +55,8 @@ Writing style
 * Use simple, straight-forward sentence structures.
 * Use outlines or lists as much as possible.
 * Avoid meaningless statements.
+* Avoid complex sentences.
+
 
 Markup
 ------
@@ -64,15 +64,23 @@ Markup
 * Names of interface components, menus, dialogs, ...  are in bold.
   Examples::
   
-      **sidebar**
-      **Add feed**
-      **File**
-      **File** -> **New Download**
+      **Remove** button
+      **Add feed** button
+      **File** menu
+      **File** menu **New Download** menu item
 
 * Names of options, values, settings, ...  are in italics.
   Examples::
 
       Set *Auto-download* to *New*.
+
+
+Conventions
+-----------
+
+* ui should always be spelled out as user interface
+* Internet starts with a capital I
+* websites is a single non-hyphenated word
 
 
 Notes on screenshots
