@@ -1,0 +1,94 @@
+========
+ README
+========
+
+To build the HTML
+=================
+
+1. Change directory into the language you're building for. 
+2. Then run::
+
+       $ make html
+
+3. Documentation will be in ``./${LANGUAGE}/build/html/``.
+
+
+To build the PDF
+================
+
+1. Change directory into the language you're building for.
+2. Run::
+
+       $ make latex
+       $ cd build/latex/
+       $ make all-pdf
+
+
+To translate the manual
+=======================
+
+1. Copy the ``en/`` directory to a new directory with the appropriate
+   language code.  For example, if you were creating a translation of
+   the manual in French, you would do::
+
+       $ cp -r en fr
+
+2. Change directory into the new directory.
+3. Edit the ``conf.py`` file.
+4. Start translating ``.rst`` files.
+
+
+If you have problems
+====================
+
+As of this writing (July 23rd, 2009), Will Kahn-Greene is the self-elected
+maintainer of this user manual.
+
+If you have any questions, comments, concerns, edits, or anything else, contact
+him at ``will dot guaraldi at pculture dot org``.
+
+
+Notes on how to write
+=====================
+
+Writing style
+-------------
+
+* Use simple, straight-forward sentence structures.
+* Use outlines or lists as much as possible.
+* Avoid meaningless statements.
+
+Markup
+------
+
+* Names of interface components, menus, dialogs, ...  are in bold.
+  Examples::
+  
+      **sidebar**
+      **Add feed**
+      **File**
+      **File** -> **New Download**
+
+* Names of options, values, settings, ...  are in italics.
+  Examples::
+
+      Set *Auto-download* to *New*.
+
+
+Notes on screenshots
+====================
+
+On Linux:
+
+* Use Shutter for screenshots.
+* Number background color is ``#0000ff`` with opacity 66.
+* Screenshots are at most 600 pixels wide.
+* Screenshots are stored in the ``_static`` directory.
+
+On OSX:
+
+* ?
+
+On Windows:
+
+* ?
