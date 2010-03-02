@@ -2,6 +2,8 @@
  Playing items
 ===============
 
+.. index:: playback; playing an item
+
 Playing items
 =============
 
@@ -17,6 +19,8 @@ Miro interface.
 
 .. image:: _static/playing_play_buttons.png
 
+
+.. index:: interface; playing video
 
 Interface for playing video
 ===========================
@@ -58,6 +62,10 @@ In this screenshot, you can see:
 9. The volume control.
 
 
+.. index:: 
+   single: interface; keyboard shortcuts for video
+   single: playback; keyboard shortcuts for video
+
 Shortcuts for playing video:
 
 =========================  ==========================
@@ -76,11 +84,15 @@ Shortcuts for playing video:
 =========================  ==========================
 
 
+.. index:: playback; fullscreen
+
 Fullscreen
 ----------
 
 Double click on the video to toggle into and out of fullscreen.
 
+
+.. index:: playback; detached playback
 
 Detached playback
 -----------------
@@ -101,6 +113,8 @@ feeds and items and continue using the Miro interface.
 
    3. Check *Always play videos in a separate window*.
 
+
+.. index:: playback; subtitles
 
 Subtitles
 ---------
@@ -144,6 +158,8 @@ If you want to view subtitles from a file you have downloaded:
 6. Click on the **Open** button.
 
 
+.. index:: interface; playing audio
+
 Interface for playing audio
 ===========================
 
@@ -178,6 +194,10 @@ In this screenshot, you can see:
 8. The volume control.
 
 
+.. index:: 
+   single: interface; keyboard shortcuts for audio
+   single: playback; keyboard shortcuts for audio
+
 Shortcuts for playing audio:
 
 =========================  ==========================
@@ -195,6 +215,8 @@ Shortcuts for playing audio:
  Ctrl+T                     Toggle detached playback
 =========================  ==========================
 
+
+.. index:: playback; external playback
 
 External playback
 =================

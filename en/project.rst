@@ -2,6 +2,8 @@
  Introduction
 ==============
 
+.. index:: miro; what is Miro?
+
 What is Miro?
 =============
 
@@ -20,6 +22,8 @@ Best of all, Miro is 100% free and open source, developed by
 `Participatory Culture Foundation <http://pculture.org/>`_ (a
 non-profit organization) and volunteers around the world.
 
+
+.. index:: miro; what is Miro used for?
 
 What can Miro be used for?
 ==========================
@@ -46,6 +50,8 @@ do-it-yourself, conference sessions, yoga, health, ...  Use the `Miro
 Guide <http://miroguide.com/>`_ to find shows you'd be interested in
 watching.
 
+
+.. index:: participatory culture foundation, pcf
 
 Who is Participatory Culture Foundation?
 ========================================
@@ -75,6 +81,8 @@ release Miro to everyone for free.  If you value the work that we do
 or wish we could do more of it, please consider donating your time and
 money.  For more on this, see :ref:`Contributing <contributing>`.
 
+
+.. index:: participatory culture foundation, pcf
 
 Who works on Miro?
 ==================

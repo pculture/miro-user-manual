@@ -1,5 +1,7 @@
 .. _playlists-chapter:
 
+.. index:: playlists
+
 ===========
  Playlists
 ===========
@@ -9,6 +11,8 @@ single playlist and specify in what order they should be played.
 
 Playlists show up in the sidebar below the feeds.
 
+
+.. index:: playlists; creating
 
 Creating playlists
 ==================
@@ -28,6 +32,8 @@ To create a new playlist:
 The playlist will show up in the *Playlists* section of the sidebar.
 
 
+.. index:: playlists; removing
+
 Removing playlists
 ==================
 
@@ -36,6 +42,8 @@ To remove a playlist:
 1. Select the playlist in the sidebar that you want to remove.
 2. Click on the **Playlists** menu item, then select **Remove Playlist**.
 
+
+.. index:: playlists; using
 
 Using playlists
 ===============

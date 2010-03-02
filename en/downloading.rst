@@ -2,6 +2,8 @@
  Downloading items
 ===================
 
+.. index:: downloading; item from feed
+
 Downloading an item from a feed
 ===============================
 
@@ -20,6 +22,7 @@ To download an item from a feed:
 
 .. image:: _static/downloading_feed_item.png
 
+.. index:: downloading; item from video search
 
 Downloading an item from a video search
 =======================================
@@ -34,6 +37,8 @@ Downloading an item from a video search
 
 .. image:: _static/downloading_video_search_item.png
 
+
+.. index:: downloading; item from website
 
 Downloading an item from Miro Guide or a Website
 ================================================
@@ -56,6 +61,8 @@ Clicking on that button will download the item.
 
 .. image:: _static/downloading_download_this_video.png
 
+
+.. index:: downloading; from url
 
 Downloading an item
 ===================

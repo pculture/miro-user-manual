@@ -1,5 +1,7 @@
 .. _websites-chapter:
 
+.. index:: websites
+
 ==========
  Websites
 ==========
@@ -11,6 +13,8 @@ that have lots of video or audio content like `YouTube
 <http://www.legaltorrents.com/>`_, `MiroGuide
 <http://miroguide.com/>`_, any of the many Miro Communities, ...
 
+
+.. index:: websites; adding
 
 Adding a website
 ================
@@ -27,6 +31,7 @@ To add a website:
 2. Type in the website you want to add.
 3. Click on the **OK** button.
 
+.. index:: websites; removing
 
 Removing a website
 ==================

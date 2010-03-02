@@ -1,10 +1,14 @@
 .. _searching-chapter:
 
+.. index:: searching
+
 ===========
  Searching
 ===========
 
 .. _searching-video-websites:
+
+.. index:: searching; video websites
 
 Searching video websites
 ========================
@@ -46,6 +50,8 @@ video search view.
    would like to help us make website support better, let us know.
 
 
+.. index:: searching; saving a search
+
 Saving a video website search
 =============================
 
@@ -59,6 +65,8 @@ all your other feeds.
 
 
 .. _searching-feeds-for-specific-items:
+
+.. index:: searching: finding items
 
 Searching feeds for specific items
 ==================================
@@ -83,6 +91,8 @@ items in a feed for a search string making items easier to find.
    Miro searches the title, description and filename for items in the
    item view and displays results.
 
+
+.. index:: searching; saving a feed search
 
 Saving a feed search
 ====================

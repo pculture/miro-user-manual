@@ -1,5 +1,6 @@
-
 .. _watched-folders-chapter:
+
+.. index:: watched folders
 
 =================
  Watched Folders
@@ -11,6 +12,7 @@ video items.
 This is a good way to watch/listen to media in Miro that comes from
 other places like email attachments, other programs, ...
 
+.. index:: watched folders; adding
 
 Adding a watched folder
 =======================
@@ -31,6 +33,7 @@ To add a watched folder:
 The watched folder will now show up in the feeds section of the
 sidebar with all the video and audio items in that directory.
 
+.. index:: watched folders; removing
 
 Removing a watched folder
 =========================

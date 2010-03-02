@@ -9,6 +9,8 @@ podcasts.  This chapter covers what feeds are, how to subscribe to
 them and how to manage them in Miro.
 
 
+.. index:: feeds; what is a feed?
+
 What is a feed?
 ===============
 
@@ -87,6 +89,8 @@ you're interested in.  Miro will automatically download and parse the
 feeds you're subscribed to looking for new podcast episodes.
 
 
+.. index:: feeds; subscribing
+
 Subscribing to a feed
 =====================
 
@@ -153,6 +157,8 @@ feed for that podcast.
    .. image:: _static/feeds_added_feed.png
 
 
+.. index:: feeds; deleting
+
 Deleting a feed
 ===============
 
@@ -190,6 +196,7 @@ downloaded items:
 
 .. image:: _static/feeds_remove_feed_dialog_with_text.png
 
+.. index:: feeds; renaming
 
 Renaming a feed
 ===============
@@ -210,6 +217,8 @@ To rename a feed:
    button.
 
 
+.. index:: feeds; finding items
+
 Finding items in a feed
 =======================
 
@@ -217,6 +226,8 @@ Some feeds are really big and it's hard to find the item you're
 looking for.  You can search for items within a feed.  This is covered
 in :ref:`searching-feeds-for-specific-items`.
 
+
+.. index:: feeds; organizing into folders
 
 Organizing feeds into folders
 =============================
@@ -271,6 +282,8 @@ You can also select the feeds and put them in a folder:
    The folder is added to the sidebar with the selected feeds in it.
 
 
+.. index:: feeds; sharing
+
 Sharing a feed with others
 ==========================
 
@@ -289,6 +302,8 @@ To share a feed:
 3. Choose your desired way to share and fill in the requested
    information.
 
+
+.. index:: feeds; automatic download
 
 Changing automatic download setting
 ===================================

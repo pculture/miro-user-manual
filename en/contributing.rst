@@ -17,6 +17,8 @@ project.
 .. [#] http://en.wikipedia.org/wiki/Free_software
 
 
+.. index:: contributing; evangelizing
+
 Evangelize
 ==========
 
@@ -60,6 +62,8 @@ forums.
    <http://getmiro.com/adopt/>`_.
 
 
+.. index:: contributing; testing
+
 Test
 ====
 
@@ -94,6 +98,8 @@ If you're interested in helping us test, visit `Janet's Miro testing
 blog <http://pculture.org/devblogs/mirotesting/about/>`_.
 
 
+.. index:: contributing; translating
+
 Translate
 =========
 
@@ -104,6 +110,8 @@ strings in your language through the `Launchpad interface
 Translations are synced into the Miro codebase periodically during the
 development cycle as well as just before releases.
 
+
+.. index:: contributing; programming
 
 Develop
 =======
@@ -122,6 +130,8 @@ development Center
 If you're just getting started, look at bugs in our `Bugzilla
 bug-tracker <http://bugzilla.pculture.org/>`_ tagged "bite-sized".
 
+
+.. index:: contributing; donating
 
 Contribute money
 ================

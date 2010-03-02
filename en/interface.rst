@@ -35,12 +35,16 @@ The labeled areas are these:
    volume control.
 
 
+.. index:: interface; menu
+
 The menu
 ========
 
 The menu is pretty straight-forward.  It works like menus for other
 applications.
 
+
+.. index:: interface; sidebar
 
 The sidebar
 ===========
@@ -75,11 +79,15 @@ Following that is the **Playlists** section which holds playlists.
 Playlists are covered in :ref:`playlists-chapter`.
 
 
+.. index:: interface; main view
+
 The main view
 =============
 
 There are several different kinds of main views depending on what's
 selected in the sidebar.
+
+.. index:: interface; browser view
 
 The browser view
 ----------------
@@ -98,6 +106,8 @@ On Linux and Windows, the browser is XULRunner-based like Firefox.
 
 On OSX, the browser is Webkit-based like Safari.
 
+
+.. index:: interface; item view
 
 The item view
 -------------

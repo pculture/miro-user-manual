@@ -5,6 +5,8 @@
 Installing Miro
 ===============
 
+.. index:: installing; on Windows
+
 Windows
 -------
 
@@ -24,6 +26,8 @@ Miro 3.0 runs on Windows XP, Vista and Windows 7.
       difference between the simple and advanced install options.
 
 
+.. index:: installing; on Mac OSX
+
 Mac OSX
 -------
 
@@ -38,6 +42,8 @@ Miro 3.0 runs on Mac OSX 10.4 and higher.
 4. Drag the Miro ``m`` to your Applications folder.
 
 
+.. index:: installing; on Ubuntu
+
 Ubuntu
 ------
 
@@ -48,6 +54,8 @@ Miro 3.0 runs on Ubuntu Jaunty and Ubuntu Karmic.
 
 2. Follow the installation instructions.
 
+
+.. index:: installing; on other platforms
 
 All other platforms
 -------------------

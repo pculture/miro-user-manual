@@ -1,5 +1,7 @@
 .. _configuring-chapter:
 
+.. index:: preferences, configuring
+
 ==================
  Configuring Miro
 ==================
@@ -21,16 +23,21 @@ General preferences
 
 .. image:: _static/configuring_general_tab.jpeg
 
+.. index:: startup; running Miro on
 
 *Automatically run Miro when I log in*
 
     Check this if you want Miro to launch when you log into your
     computer.
 
+.. index:: quitting; when downloads in progress
+
 *Warn me if I attempt to quit with downloads in progress*
 
     Check this if you want Miro to pop up a dialog asking you if you
     really want to quit Miro if you have items currently downloading.
+
+.. index:: trayicon, system tray, status tray
 
 *Enable tray icon*
 
@@ -38,6 +45,7 @@ General preferences
 
     Availability: Linux and Windows
 
+.. index:: feed; preferences, feed; settings
 
 Feeds preferences
 =================
@@ -50,6 +58,8 @@ Feeds preferences
 These settings can be overridden on a per feed basis in the **Feed
 Settings** dialog.  More information at
 :ref:`configuring-feed-settings`.
+
+.. index:: feeds; checking for new items
 
 *Check for new content*
 
@@ -68,6 +78,8 @@ Settings** dialog.  More information at
       can update the feed with the **Update Feed** menu item in the
       **Sidebar** menu.
 
+.. index:: downloading; automatically downloading
+
 *Auto download setting*
 
     If *Auto Download* is set to *New* or *All*, Miro will queue items
@@ -81,7 +93,8 @@ Settings** dialog.  More information at
     the number of unplayed items drops below the threshold to download
     more.  Once an unplayed item in the feed has been played, then
     next item will begin to download.
-    
+
+.. index:: feeds; remembering old items
 
 *Remember this many old items*
 
@@ -98,6 +111,7 @@ Download preferences
 
 .. image:: _static/configuring_downloads_tab.jpeg
 
+.. index:: downloading; maximum manual downloads
 
 *Maximum number of manual downloads at a time*
 
@@ -105,11 +119,15 @@ Download preferences
     time.  A manual download is any download that you've initiated by
     clicking on the **Download** button.
 
+.. index:: downloading; maximum automatic downloads
+
 *Maximum number of auto-downloads at a time*
 
     Controls how many automatic downloads can be downloading at the
     same time.  An automatic download is any download that Miro has
     initiated.
+
+.. index:: downloading; bittorrent settings
 
 **Bittorrent**
 
@@ -147,6 +165,7 @@ Folder preferences
 
 .. image:: _static/configuring_folders_tab.jpeg
 
+.. index:: downloading; destination folder
 
 *Store downloads in this folder*
 
@@ -173,6 +192,8 @@ Disk Space preferences
 
 .. image:: _static/configuring_disk_space_tab.jpeg
 
+.. index:: downloading; free space on drive
+
 *Keep at least this much free space on my drive*
 
     This setting prevents Miro from downloading so much stuff that it
@@ -180,6 +201,8 @@ Disk Space preferences
 
     When Miro hits this threshold, it will stop downloading until
     you've freed up some space.
+
+.. index:: items; automatically expire
 
 *By default, video and audio items expire after*
 
@@ -198,22 +221,30 @@ Playback preferences
 
 .. image:: _static/configuring_playback_tab.jpeg
 
+.. index:: playback; external playback
+
 *Play media in Miro*
 
     Miro has a video renderer that will play media.  If you don't like
     this renderer, you can opt to play all media in your operating
     system's associated application for that media type.
 
+.. index:: playback; detached window
+
 *Always play videos in a separate window*
 
     Miro can play videos in the main view.  If you check this, then
     Miro will play all videos in a separate detached window.
+
+.. index:: playback; resuming
 
 *Resume playing a video or audio item from the point it was last stopped*
 
     When you stop playing a video or audio item, Miro can remember the
     point at which you stopped playing it.  The next time you play the
     video or audio item, Miro will resume playing at that point.
+
+.. index:: playback; subtitles
 
 *Automatically enable movie subtitles when available*
 
@@ -247,6 +278,7 @@ When you do that, you'll see this dialog:
 
 .. image:: _static/configuring_feed_settings_dialog.png
 
+.. index:: feeds; pausing automatic downloading
 
 *Pause auto-downloading when items are unplayed*
 
@@ -262,12 +294,14 @@ When you do that, you'll see this dialog:
     more.  Once an unplayed item in the feed has been played, then
     next item will begin to download.
 
+.. index:: items; expiring
 
 *Auto-expire Videos*
 
     Miro will expire items in a feed that have been played.  You can
     control how soon the items get expired in this feed with this setting.
 
+.. index:: feeds; remembering old items
 
 *Outdated Feed Items*
 
