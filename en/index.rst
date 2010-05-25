@@ -3,11 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-User Manual for Miro v3.0.1
+User Manual for Miro v3.0.2
 ===========================
 
 Welcome to the User Manual for Miro!  This manual covers basic usage
-of Miro 3.0.1.
+of Miro.
 
 Contents:
 

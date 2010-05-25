@@ -2,6 +2,14 @@
  What's new in Miro
 ====================
 
+What's new in Miro 3.0.2
+========================
+
+Miro 3.0.2 is a bugfix release.
+
+See the `release notes <https://develop.participatoryculture.org/trac/democracy/wiki/3.0ReleaseNotes>`_.
+
+
 What's new in Miro 3.0.1
 ========================
 
