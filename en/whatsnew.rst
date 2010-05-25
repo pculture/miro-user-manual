@@ -58,7 +58,7 @@ New features:
    .. image:: _static/whatsnew_3_0_edit_item_dialog.png
 
 5. **Volume goes to 11.** We tweaked the volume control so the max
-   volume is 200% on Windows and 300% on Linux and OSX.
+   volume is 200% on Windows and 300% on GNU/Linux and OSX.
 
 Other changes:
 

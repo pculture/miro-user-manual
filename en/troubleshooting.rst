@@ -50,10 +50,13 @@ you can.  The more information we have, the more likely it is that we
 can reproduce the issue you're having and fix it.
 
 If you're able to, fix the problem and attach a patch to the bug with
-an explanation of how the patch fixes the problem.
+an explanation of how the patch fixes the problem.  Seriously.  This
+helps us a ton and greatly increase the chance your bug will be
+addressed.
 
-We take all enhancement requests seriously, but it's not possible to
-implement all enhancements.
+We take all bug reports seriously, but bugs take time to work through.
+
+See :ref:`Reporting bugs <reporting-bugs>` for more details and tips.
 
 
 When Miro hiccups

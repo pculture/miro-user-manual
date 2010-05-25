@@ -1,6 +1,6 @@
-.. _websites-chapter:
-
 .. index:: websites
+
+.. _websites-chapter:
 
 ==========
  Websites
@@ -12,6 +12,13 @@ that have lots of video or audio content like `YouTube
 <http://youtube.com/>`_, `LegalTorrents
 <http://www.legaltorrents.com/>`_, `MiroGuide
 <http://miroguide.com/>`_, any of the many Miro Communities, ...
+
+.. Note::
+
+   Flash on web-sites is not supported in Miro on GNU/Linux.  The
+   details are complicated and it's very frustrating for us.  If
+   you're interested in working on fixing this bug, see `bug 11972
+   <http://bugzilla.pculture.org/show_bug.cgi?id=11972>`_ .
 
 
 .. index:: websites; adding

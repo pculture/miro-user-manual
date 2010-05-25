@@ -47,7 +47,7 @@ Miro runs on Mac OSX 10.4 and higher.
 Ubuntu
 ------
 
-Miro runs on Ubuntu Jaunty and Ubuntu Karmic.
+Miro runs on Ubuntu Jaunty, Karmic and Lucid.
 
 1. Open up your favorite browser and go to
    http://getmiro.com/download/for-ubuntu/
@@ -57,11 +57,23 @@ Miro runs on Ubuntu Jaunty and Ubuntu Karmic.
 
 .. index:: installing; on other platforms
 
+
+Source code
+-----------
+
+Source code for Miro is available in versioned tarballs from 
+http://getmiro.com/download/all/ .
+
+Source code is maintained in a git repository.  Details and
+web-interface are available at
+http://git.participatoryculture.org/miro/ .
+
+
 All other platforms
 -------------------
 
-Miro is available on other platforms, but it is packaged and supported
-by volunteers.
+Miro is available on other platforms and GNU/Linux distributions, but
+it is packaged and supported by volunteers.
 
 You can see a listing of which platforms Miro is available for and
 where to go to get Miro on the `Get Miro website 
@@ -89,5 +101,5 @@ know and walk you through updating.
 All other platforms
 -------------------
 
-Talk to whoever is packaging and supporting Miro on the platform for
+Talk to whoever is packaging and supporting Miro on your platform for
 availability.

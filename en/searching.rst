@@ -1,14 +1,14 @@
-.. _searching-chapter:
-
 .. index:: searching
+
+.. _searching-chapter:
 
 ===========
  Searching
 ===========
 
-.. _searching-video-websites:
-
 .. index:: searching; video websites
+
+.. _searching-video-websites:
 
 Searching video websites
 ========================
@@ -42,12 +42,16 @@ video search view.
 
 .. Note::
 
-   There are many video websites on the Internet and Miro only supports a
-   handful of them.  If you would like to help us add support for
-   additional websites, let us know.
+   There are many video websites on the Internet and Miro only
+   supports a handful of them.  If you would like to help us add
+   support for additional websites, let us know.  
 
    Additionally, Miro's support for some websites is mediocre.  If you
    would like to help us make website support better, let us know.
+
+   For more information on contributin, see :ref:`Contributing
+   <contributing>`.
+
 
 
 .. index:: searching; saving a search
@@ -64,9 +68,9 @@ The feed will now appear in your sidebar and will update along with
 all your other feeds.
 
 
-.. _searching-feeds-for-specific-items:
-
 .. index:: searching: finding items
+
+.. _searching-feeds-for-specific-items:
 
 Searching feeds for specific items
 ==================================
@@ -85,11 +89,6 @@ items in a feed for a search string making items easier to find.
 2. In the upper right hand corner is a search box.  Type your search
    in here.  Searches are incremental meaning that as soon as you
    start typing, the view is filtered.
-
-.. Note::
-
-   Miro searches the title, description and filename for items in the
-   item view and displays results.
 
 
 .. index:: searching; saving a feed search

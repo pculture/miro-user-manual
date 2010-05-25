@@ -25,10 +25,10 @@ Miro interface.
 Interface for playing video
 ===========================
 
-When playing video, Miro on Linux and Windows looks like this:
+When playing video, Miro on GNU/Linux and Windows looks like this:
 
 .. SCREENSHOT
-   Screenshot of Miro playing a video on Linux with parts labeled.
+   Screenshot of Miro playing a video on GNU/Linux with parts labeled.
 
 .. image:: _static/playing_playing_video_linux.png
 
@@ -259,3 +259,11 @@ To configure Miro to play everything with an external player:
 Whenever you play an item, Miro will pass the item to your operating
 system which will open the item in the application you have associated
 with that item type.
+
+To configure which application is associated with that item type,
+consult your operating system documentation.
+
+.. Note::
+
+   On GNU/Linux, this is done with ``gnome-open``.
+

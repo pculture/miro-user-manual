@@ -49,7 +49,7 @@ applications.
 The sidebar
 ===========
 
-The sidebar manages things.  Each item is the sidebar is called a
+The sidebar manages things.  Each item in the sidebar is called a
 *tab*.  Clicking on a particular tab will display it's content in the
 main view.
 
@@ -61,11 +61,11 @@ video search view.  This is covered more in
 :ref:`searching-video-websites`.
 
 Next is the **Library** section which is organized into four sub-tabs.
-It contains all the items that are cataloged by miro, sorted by
+It contains all the items that are cataloged by Miro, sorted by
 type. The **Video** tab holds video items, the **Audio** tab holds
-audio items, and the **Other** tab is a catch-all for everything else,
-for example, pdf files or images.  The **Downloading** tab shows you
-everything that is currently downloading or seeding.
+audio items, and the **Other** tab is a catch-all for everything
+else---for example, PDF files or images.  The **Downloading** tab
+shows you everything that is currently downloading or seeding.
 
 Next is the **Websites** section which holds websites.  A website is
 any website you want bookmarked to view inside of Miro.  Websites are
@@ -102,9 +102,9 @@ top of the browser allowing you to go forward and backward in the
 history, reload the page, go back to "home" and open the current page
 in a browser outside of Miro.
 
-On Linux and Windows, the browser is XULRunner-based like Firefox.
+On Windows, the browser is XULRunner-based like Firefox.
 
-On OSX, the browser is Webkit-based like Safari.
+On GNU/Linux and OSX, the browser is Webkit-based like Safari.
 
 
 .. index:: interface; item view

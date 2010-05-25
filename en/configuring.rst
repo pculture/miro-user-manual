@@ -43,7 +43,7 @@ General preferences
 
     Check this if you want Miro to show up in the system tray.
 
-    Availability: Linux and Windows
+    Availability: GNU/Linux and Windows
 
 .. index:: feed; preferences, feed; settings
 

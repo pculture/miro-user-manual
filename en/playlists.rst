@@ -1,6 +1,6 @@
-.. _playlists-chapter:
-
 .. index:: playlists
+
+.. _playlists-chapter:
 
 ===========
  Playlists

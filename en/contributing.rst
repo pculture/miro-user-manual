@@ -11,10 +11,33 @@ contributing their time and skills.
 **This is your project, too!**
 
 Everyone plays a role in Miro development---we all help to make it
-better.  This chapter covers various ways you can help the Miro
-project.
+better.
+
+You don't have to be a programmer to contribute to make Miro better!
+
+This chapter covers various ways you can help the Miro project.
 
 .. [#] http://en.wikipedia.org/wiki/Free_software
+
+
+.. index:: contributing; OpenHatch
+
+Contributing through OpenHatch
+==============================
+
+Do you want to contribute but find that the Miro project is too
+difficult to get involved in?
+
+`OpenHatch <http://openhatch.org/>`_ is a web-site that helps people
+like you who are interested in contributing connect with projects like
+Miro that are complex and non-trivial to figure out how to participate
+in.
+
+If you're interested in contributing, I encourage you to go to `Miro
+project page`_ and click on the big green button that says "I want to
+help".  Then we'll contact you and help you help us!
+
+.. _Miro project page: https://openhatch.org/+projects/Miro
 
 
 .. index:: contributing; evangelizing
@@ -62,6 +85,81 @@ forums.
    <http://getmiro.com/adopt/>`_.
 
 
+.. index:: contributing; reporting bugs
+
+.. _reporting-bugs:
+
+Reporting bugs
+==============
+
+When you encounter bugs in Miro, report them.  Sometimes people
+encounter problems that other people encounter, but if no one reports
+it, we're not aware of it.
+
+A "bug" is a generic term covering an aspect of Miro that needs
+attention.  This could be any of the following:
+
+* a crash report
+* something that could be improved
+* something that's horribly wrong
+* support for a protocol or something else that Miro doesn't support
+  but should
+
+Our bug system is at http://bugzilla.pculture.org/ .
+
+When submitting a bug report remember that the following are all true:
+
+1. **There are a million of you and 4 of us.** There's a very small
+   number of paid staff working on Miro and supporting our users.
+   Right now, there are 3 developers and 1 QA.
+
+   Help us help you by doing as much of the footwork as you can.
+
+2. **Getting to your bug might take time.** We work through bugs as
+   quickly as we can, but many bugs are non-trivial and take time to
+   look into.  If you submit a bug and can't work on it yourself, then
+   it'll sit around until someone has time to look into it.
+
+   It's also possible we don't have the equipment or configuration
+   that allows us to reproduce your bug.  In these situations, it's
+   very difficult for us to solve the bug unless we get lucky.
+
+3. **Miro doesn't suck just because you found a bug.** We're doing the
+   best that we can.  All software has bugs because software
+   development is wildly complex.  We work as hard as we can to
+   improve Miro quality and reduce bugs.
+
+   Having said that, there's only so much we can do without your help.
+   When you help, Miro gets better for everyone.
+
+4. **Please don't be a jerk.** Encountering bugs is really
+   frustrating.  Please take into account that your bug report is
+   being read by real people who work really hard on Miro and care
+   very much about Miro and your experience using it.
+
+5. **Don't use threats in your bug report.** For some bizarre reason,
+   some people use threats in their bug reports.  Statements like, "No
+   one will ever use Miro unless xyz happens!" or "I'll stop using
+   Miro right now unless you fix xyz!" in a bug report for an open
+   source project are pretty silly.
+
+   We tend to ignore these threats.  However, even though we ignore
+   these threats, they make you look pretty stupid and it's possible
+   you'll make it less likely non-paid staff will help you out.
+
+6. **Use an email address that let's us contact you.** If you use an
+   email address you throw away and we have questions, then those
+   questions will go unanswered.  This will usually halt progress on
+   the bug because there's nothing we can do.
+
+
+We use Bugzilla as our bug tracker.  We know it's oriented to
+developers and not to end users.  If you find it overly complicated,
+find another way to tell us.  Having said that, Bugzilla is the system
+we use for tracking Miro development and if it doesn't make it to
+Bugzilla, it usually gets dropped on the floor.
+
+
 .. index:: contributing; testing
 
 Test
@@ -80,7 +178,8 @@ test a small amount of Miro, but do so in a programmatic way.
 The second and more important way we test Miro is running through the
 many tests that Janet has put together.  Often running through a test
 is a 5-minute endeavor.  Having many people run through the same tests
-gives us a good feel for how well those parts of the code are working.
+covering different operating system and hardware configurations gives
+us a good feel for how well those parts of the code are working.
 Comprehensive user-interface tests are very important in a desktop
 application.
 
@@ -112,6 +211,7 @@ development cycle as well as just before releases.
 
 
 .. index:: contributing; programming
+
 
 Develop
 =======

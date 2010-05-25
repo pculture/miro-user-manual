@@ -1,6 +1,6 @@
-.. _watched-folders-chapter:
-
 .. index:: watched folders
+
+.. _watched-folders-chapter:
 
 =================
  Watched Folders
@@ -10,7 +10,7 @@ Miro can watch folders/directories on your computer for audio and
 video items.
 
 This is a good way to watch/listen to media in Miro that comes from
-other places like email attachments, other programs, ...
+other programs.
 
 .. index:: watched folders; adding
 

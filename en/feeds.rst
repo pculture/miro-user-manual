@@ -16,7 +16,7 @@ What is a feed?
 
 There are many podcasts out there on the Internet.  A podcast is some
 episodic show that's syndicated on the Internet.  Podcasts are often
-episodic in the sense that a new episode of the podcast comes out on a
+episodic in the sense that new episodes of the podcast come out on a
 periodic basis.
 
 Podcast clients are applications that download podcast feeds
