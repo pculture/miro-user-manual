@@ -109,8 +109,8 @@ Our bug system is at http://bugzilla.pculture.org/ .
 
 When submitting a bug report remember that the following are all true:
 
-1. **There are a million of you and 4 of us.** There's a very small
-   number of paid staff working on Miro and supporting our users.
+1. **There are a million of you and a handful of us.** There's a 
+   very small number of paid staff working on Miro and supporting users.
    Right now, there are 3 developers and 1 QA.
 
    Help us help you by doing as much of the footwork as you can.
