@@ -62,7 +62,7 @@ doesn't?  Which podcasts are you watching and listening to?  How do
 they enrich your life and the lives of those around you?
 
 Buy a Miro t-shirt and wear it.  Tell people how the future of Open
-Video affects us all and ensuring its success helps to make the world
+Video affects us all and how ensuring its success helps to make the world
 a better place.
 
 Tell your favorite podcast publishers to add "add to Miro" buttons to
@@ -81,8 +81,8 @@ forums.
    feet.  That's enough to cover the walls of a room that's 8 feet
    tall by 8 feet long by 7 feet wide.
 
-   You could adopt a line of code at our `Miro Adoption Center
-   <http://getmiro.com/adopt/>`_.
+   Instead of doing that, you could adopt a line of code at our 
+   `Miro Adoption Center <http://getmiro.com/adopt/>`_.
 
 
 .. index:: contributing; reporting bugs
@@ -94,7 +94,7 @@ Reporting bugs
 
 When you encounter bugs in Miro, report them.  Sometimes people
 encounter problems that other people encounter, but if no one reports
-it, we're not aware of it.
+it, we might not be aware of it.
 
 A "bug" is a generic term covering an aspect of Miro that needs
 attention.  This could be any of the following:
@@ -102,8 +102,8 @@ attention.  This could be any of the following:
 * a crash report
 * something that could be improved
 * something that's horribly wrong
-* support for a protocol or something else that Miro doesn't support
-  but should
+* support for something Miro doesn't support but should
+* a new feature
 
 Our bug system is at http://bugzilla.pculture.org/ .
 
@@ -118,24 +118,26 @@ When submitting a bug report remember that the following are all true:
 2. **Getting to your bug might take time.** We work through bugs as
    quickly as we can, but many bugs are non-trivial and take time to
    look into.  If you submit a bug and can't work on it yourself, then
-   it'll sit around until someone has time to look into it.
+   it'll sit around until someone has time to look into it.  Sometimes
+   this means that your bug will go unanswered for a while.
 
    It's also possible we don't have the equipment or configuration
    that allows us to reproduce your bug.  In these situations, it's
-   very difficult for us to solve the bug unless we get lucky.
+   very difficult for us to solve the bug unless we get lucky.  If
+   this happens, we'll let you know.
 
 3. **Miro doesn't suck just because you found a bug.** We're doing the
    best that we can.  All software has bugs because software
    development is wildly complex.  We work as hard as we can to
    improve Miro quality and reduce bugs.
 
-   Having said that, there's only so much we can do without your help.
-   When you help, Miro gets better for everyone.
+   We encourage everyone to help out.  With your help, Miro gets better
+   for you and for everyone.
 
 4. **Please don't be a jerk.** Encountering bugs is really
-   frustrating.  Please take into account that your bug report is
-   being read by real people who work really hard on Miro and care
-   very much about Miro and your experience using it.
+   frustrating and we know that.  Please take into account that your 
+   bug report is being read by real people who work really hard on 
+   Miro and care very much about Miro and your experience using it.
 
 5. **Don't use threats in your bug report.** For some bizarre reason,
    some people use threats in their bug reports.  Statements like, "No
@@ -144,8 +146,8 @@ When submitting a bug report remember that the following are all true:
    source project are pretty silly.
 
    We tend to ignore these threats.  However, even though we ignore
-   these threats, they make you look pretty stupid and it's possible
-   you'll make it less likely non-paid staff will help you out.
+   these threats, they make you look pretty silly and less likely
+   that someone will look at your bug.
 
 6. **Use an email address that let's us contact you.** If you use an
    email address you throw away and we have questions, then those
@@ -155,9 +157,7 @@ When submitting a bug report remember that the following are all true:
 
 We use Bugzilla as our bug tracker.  We know it's oriented to
 developers and not to end users.  If you find it overly complicated,
-find another way to tell us.  Having said that, Bugzilla is the system
-we use for tracking Miro development and if it doesn't make it to
-Bugzilla, it usually gets dropped on the floor.
+find another way to tell us.
 
 
 .. index:: contributing; testing
@@ -212,7 +212,6 @@ development cycle as well as just before releases.
 
 .. index:: contributing; programming
 
-
 Develop
 =======
 
@@ -229,6 +228,12 @@ development Center
 
 If you're just getting started, look at bugs in our `Bugzilla
 bug-tracker <http://bugzilla.pculture.org/>`_ tagged "bite-sized".
+
+If you want to get involved, but need a mentor or a helping hand,
+hop on the ``#miro-hackers`` IRC channel on freenode.net.  If you
+don't know what that means, send an email to ``will dot guaraldi 
+at pculture dot org`` and tell Will that you want to help out, but 
+don't know where to start.
 
 
 .. index:: contributing; donating
