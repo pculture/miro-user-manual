@@ -12,9 +12,7 @@
 import sys, os
 
 centralconfdir = os.path.dirname(os.path.dirname(__file__))
-print centralconfdir
 centralconfdir = os.path.join(os.pardir, os.pardir, centralconfdir)
-print centralconfdir
 sys.path.append(centralconfdir)
     
 import centralconf
@@ -44,14 +42,14 @@ master_doc = centralconf.master_doc
 
 # General information about the project.
 project = u'User Manual for Miro'
-copyright = u'2010, Participatory Culture Foundation.  Released under a Creative Commons Attribution-Share Alike 3.0 license.'
+copyright = u'2010, Participatory Culture Foundation'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 #
 # The short X.Y version.
-version = '3.0.2'
+version = '3.0.3'
 # The full version, including alpha/beta/rc tags.
 release = version
 
@@ -87,7 +85,9 @@ html_show_sourcelink = centralconf.html_show_sourcelink
 # Output file base name for HTML help builder.
 htmlhelp_basename = centralconf.htmlhelp_basename
 
-html_theme = centralconf.html_theme
+html_theme_path = [os.path.join(os.getcwd(), "themes")]
+
+html_theme = 'mum'
 html_theme_options = centralconf.html_theme_options
 html_logo = centralconf.html_logo
 
