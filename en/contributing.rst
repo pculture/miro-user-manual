@@ -81,8 +81,8 @@ forums.
    feet.  That's enough to cover the walls of a room that's 8 feet
    tall by 8 feet long by 7 feet wide.
 
-   Instead of doing that, you could adopt a line of code at our 
-   `Miro Adoption Center <http://getmiro.com/adopt/>`_.
+   Instead of doing that, you could `donate to help us make media more
+   open <https://www.miroguide.com/donate>`_.
 
 
 .. index:: contributing; reporting bugs
@@ -257,3 +257,5 @@ Community.
 Contributions are an important way we raise money to fund further
 development.  Contributing money to PCF directly impacts continued
 development on Miro.
+
+Donate at <http://www.miroguide.com/donate>.
