@@ -12,6 +12,62 @@ This chapter will help you know what to do when you bump into
 problems.
 
 
+Converting media files
+======================
+
+Unknown encoder: libfaac
+------------------------
+
+When using Miro for conversions on most GNU/Linux distributions, you
+will probably encounter failures with the message::
+
+    Unknown encoder: libfaac
+
+Miro uses `ffmpeg <http://www.ffmpeg.org/>` for conversions.  Most
+distributions have ffmpeg binaries that are compiled without the
+``--enable-libfaac`` option because of license conflicts with libfaac.
+
+You can figure out whether the ffmpeg on your system was compiled with
+libfaac support by opening up a console and typing::
+
+    ffmpeg
+
+It'll print out a bunch of stuff.  One of the lines will start with
+"configuration:".  If that line has ``--enable-libfaac``, then your
+ffmpeg has libfaac and will be able to encode aac.  If there is no
+``--enable-libfaac``, then your ffmpeg does not have libfaac and will
+not be able to encode aac.
+
+For Ubuntu, see http://ubuntuforums.org/showthread.php?t=1117283
+
+For other distributions, consult your distribution's documentation.
+
+
+Playing media files
+===================
+
+Occasionally, you'll run into a media file that won't play.  There are
+several reasons that this could happen:
+
+1. **The media file is corrupted.**  Try playing the file with another
+   media player.  If it doesn't work in other media players, then it's
+   probably corrupted.
+
+2. **The media file is in a format Miro doesn't support.**  Miro can
+   play media files in a variety of formats, but there are hundreds
+   of codecs out there and Miro probably doesn't support the more
+   esoteric ones.  Try playing the file in another media player.
+
+3. **You're using GNU/Linux and you're missing required GStreamer
+   plugins.**  Check to make sure that you have the necessary GStreamer
+   plugins.  This is distribution-specific, so you'll have to consult
+   your distribution's documentation.
+
+If this is a perpetual problem, you can tell Miro to play all media
+with an external player in the **Preferences** dialog in the
+**Playback** tab.
+
+
 How to request a feature enhancement
 ====================================
 
@@ -80,13 +136,3 @@ Being able to see the database and log files often helps us diagnose
 issues quickly.
 
 
-When Miro can't play a media file
-=================================
-
-Occasionally, you'll run into a media file that's corrupted or is in a
-format that Miro doesn't support.  If this happens to you, try playing
-the file with another media player.
-
-If this is a perpetual problem, you can tell Miro to play all media
-with an external player in the **Preferences** dialog in the
-**Playback** tab.
