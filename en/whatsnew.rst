@@ -2,6 +2,60 @@
  What's new in Miro
 ====================
 
+What's new in Miro 3.5
+======================
+
+Released on XXX.
+
+New features:
+
+1. **Conversions.** Miro allows you to easily convert media to other 
+   video/audio formats for your media devices.
+
+   .. SCREENSHOT
+      Screenshot of conversions tab with conversions going.
+
+   FIXME - screenshot
+
+   .. image:: _static/whatsnew_3_5_conversions.png
+
+2. **Better HTTP downloading performance.** We switched to using
+   libcurl for HTTP downloading which is less CPU-intensive and
+   works faster.
+
+Other changes:
+
+1. Updated the Windows build environment to be based on Python 2.6 and
+   Visual Studio 2008.
+
+2. Lots of work on the user interface to make it better.
+
+3. Performance fixes for torrent restarting, proxy/http
+   authentication, and database usage.
+
+4. Cancel queued auto-downloads.
+
+5. Remember tab views.
+
+6. (Linux) Movies directory defaults to ``~/Videos/Miro`` per the Free
+   Desktop specification.
+
+7. Moved things around in the directory layout of the source tree:
+
+   ==================  ========
+   Old path            New path
+   ==================  ========
+   platform/windows/   windows/
+   platform/gtkx11/    linux/
+   platform/osx/       osx/
+   portable/           lib/
+   ==================  ========
+
+8. A lot of bug fixes.
+
+See the `release notes <https://develop.participatoryculture.org/trac/democracy/wiki/3.5ReleaseNotes>`_.
+
+
 What's new in Miro 3.0.3
 ========================
 

@@ -12,11 +12,13 @@ This chapter will help you know what to do when you bump into
 problems.
 
 
+.. _troubleshooting-converting:
+
 Converting media files
 ======================
 
-Unknown encoder: libfaac
-------------------------
+Error: Unknown encoder: libfaac
+-------------------------------
 
 When using Miro for conversions on most GNU/Linux distributions, you
 will probably encounter failures with the message::
@@ -41,6 +43,20 @@ not be able to encode aac.
 For Ubuntu, see http://ubuntuforums.org/showthread.php?t=1117283
 
 For other distributions, consult your distribution's documentation.
+
+
+Error: None and other errors
+----------------------------
+
+If you see this, please report a bug and attach your conversion log
+file to the bug report.
+
+.. SCREENSHOT
+   Screenshot of an error with the "show log" button highlighted.
+
+FIXME - screenshot
+
+See :ref:`Reporting bugs <reporting-bugs>` for more details and tips.
 
 
 Playing media files

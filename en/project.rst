@@ -2,6 +2,7 @@
  Introduction
 ==============
 
+
 .. index:: miro; what is Miro?
 
 What is Miro?
@@ -54,6 +55,25 @@ interested in watching.
 
 .. index:: participatory culture foundation, pcf
 
+Who works on Miro?
+==================
+
+The bulk of the implementation/programming is done by staff members of
+Participatory Culture Foundation.
+
+Translations are contributed by volunteers using the `Launchpad
+translations interface
+<https://translations.launchpad.net/democracy>`_.
+
+Testing and QA is done by Janet and people like you who volunteer your
+time and equipment to help make Miro bug-free.
+
+If you're interested in being a part of our team, see
+:ref:`Contributing <contributing>`.
+
+
+.. index:: participatory culture foundation, pcf
+
 Who is Participatory Culture Foundation?
 ========================================
 
@@ -83,7 +103,7 @@ We have several projects we work on:
    devices in a variety of popular formats including Ogg Theora and
    WebM.
 
-5. `Universal Subtitles <http://blog.universalsubtitles.org/>`_ - A
+5. `Universal Subtitles <http://universalsubtitles.org/>`_ - A
    project to make captioning, subtitling, and translating video
    publicly accessible in a way that's free and open.  We're building
    tools and infrastructure to make creating and distributing subtitles
@@ -93,30 +113,11 @@ We have several projects we work on:
 
 Participatory Culture Foundation is a non-profit and we work on Miro
 and other projects and make them available to everyone for free.  We
-work with other organizations like `Wikimedia
-<http://wikimedia.org/>`_, `Mozilla <http://www.mozilla.org/>`_,
-`Creative Commons <http://creativecommons.org/>`_, and others to make
-the web and video on the web open and usable by everyone.
+work with organizations like `Wikimedia <http://wikimedia.org/>`_,
+`Mozilla <http://www.mozilla.org/>`_, `Creative Commons
+<http://creativecommons.org/>`_, and others to make the web and video
+on the web open and usable by everyone.
 
 If you value the work that we do or wish we could do more of it,
 please consider donating your time and money.  For more on this, see
-:ref:`Contributing <contributing>`.
-
-
-.. index:: participatory culture foundation, pcf
-
-Who works on Miro?
-==================
-
-The bulk of the implementation/programming is done by staff members of
-Participatory Culture Foundation.
-
-Translations are contributed by volunteers using the `Launchpad
-translations interface
-<https://translations.launchpad.net/democracy>`_.
-
-Testing and QA is done by Janet and people like you who volunteer your
-time and equipment to help make Miro bug-free.
-
-If you're interested in being a part of our team, see
 :ref:`Contributing <contributing>`.
