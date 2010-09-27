@@ -7,19 +7,19 @@
  User Manual for Miro v3.5
 ===========================
 
-.. only:: html
+Manuals for older versions of Miro
+==================================
 
-   Manuals for older versions of Miro
-   ==================================
-
-   Miro 3.0, 3.0.1, 3.0.2, 3.0.3: http://getmiro.com/userguide/3/
+Miro 3.0, 3.0.1, 3.0.2, 3.0.3: http://getmiro.com/userguide/3/
 
 
 Contents
 ========
 
-Welcome to the User Manual for Miro!  This manual covers basic usage
-of Miro for Miro |version| last updated |today|.
+Welcome to the User Manual for Miro!
+
+This manual covers basic usage of Miro for Miro |version| last 
+updated |today|.
 
 
 .. toctree::
