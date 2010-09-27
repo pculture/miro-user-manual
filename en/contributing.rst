@@ -109,7 +109,7 @@ Our bug system is at http://bugzilla.pculture.org/ .
 
 When submitting a bug report remember that the following are all true:
 
-1. **There are a million of you and a handful of us.** There's a 
+1. **There are a million of you and a handful of us.** There's a
    very small number of paid staff working on Miro and supporting users.
    Right now, there are 3 developers and 1 QA.
 
@@ -126,33 +126,15 @@ When submitting a bug report remember that the following are all true:
    very difficult for us to solve the bug unless we get lucky.  If
    this happens, we'll let you know.
 
-3. **Miro doesn't suck just because you found a bug.** We're doing the
-   best that we can.  All software has bugs because software
-   development is wildly complex.  We work as hard as we can to
-   improve Miro quality and reduce bugs.
+3. **Be considerate.** Don't use threats, don't be a jerk, don't
+   resort to hyperbole and histrionics.  Being easy to work with makes
+   it more likely someone will work with you to fix your bug.
 
-   We encourage everyone to help out.  With your help, Miro gets better
-   for you and for everyone.
-
-4. **Please don't be a jerk.** Encountering bugs is really
-   frustrating and we know that.  Please take into account that your 
-   bug report is being read by real people who work really hard on 
-   Miro and care very much about Miro and your experience using it.
-
-5. **Don't use threats in your bug report.** For some bizarre reason,
-   some people use threats in their bug reports.  Statements like, "No
-   one will ever use Miro unless xyz happens!" or "I'll stop using
-   Miro right now unless you fix xyz!" in a bug report for an open
-   source project are pretty silly.
-
-   We tend to ignore these threats.  However, even though we ignore
-   these threats, they make you look pretty silly and less likely
-   that someone will look at your bug.
-
-6. **Use an email address that let's us contact you.** If you use an
+4. **Use an email address that let's us contact you.** If you use an
    email address you throw away and we have questions, then those
-   questions will go unanswered.  This will usually halt progress on
-   the bug because there's nothing we can do.
+   questions will go unanswered.  After a couple of weeks with no
+   response, we'll probably resolve the bug as INCOMPLETE because we
+   don't have the information we need to continue working on it.
 
 
 We use Bugzilla as our bug tracker.  We know it's oriented to
@@ -231,8 +213,8 @@ bug-tracker <http://bugzilla.pculture.org/>`_ tagged "bite-sized".
 
 If you want to get involved, but need a mentor or a helping hand,
 hop on the ``#miro-hackers`` IRC channel on freenode.net.  If you
-don't know what that means, send an email to ``will dot guaraldi 
-at pculture dot org`` and tell Will that you want to help out, but 
+don't know what that means, send an email to ``will dot guaraldi
+at pculture dot org`` and tell Will that you want to help out, but
 don't know where to start.
 
 
