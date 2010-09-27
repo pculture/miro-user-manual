@@ -3,13 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-User Manual for Miro v3.0.3
+===========================
+ User Manual for Miro v3.5
 ===========================
 
-Welcome to the User Manual for Miro!  This manual covers basic usage
-of Miro.
+.. only:: html
 
-Contents:
+   Manuals for older versions of Miro
+   ==================================
+
+   Miro 3.0, 3.0.1, 3.0.2, 3.0.3: http://getmiro.com/userguide/3/
+
+
+Contents
+========
+
+Welcome to the User Manual for Miro!  This manual covers basic usage
+of Miro for Miro |version| last updated |today|.
+
 
 .. toctree::
    :maxdepth: 2

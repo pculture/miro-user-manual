@@ -75,11 +75,11 @@ Support your friends using Miro and help them help us help them by
 sending in bug reports and feature requests or writing posts in the
 forums.
 
-.. [#] That's actually probably a bad idea.  Miro 3.0 contains 55,890
-   lines of code.  Assuming 80 lines of code per page, that'd be 698
-   pages.  If those pages were 8 1/2 by 11, then that's 453 square
+.. [#] That's actually probably a bad idea.  Miro 3.5 contains 58,273
+   lines of code.  Assuming 80 lines of code per page, that'd be 728
+   pages.  If those pages were 8 1/2 by 11, then that's 472 square
    feet.  That's enough to cover the walls of a room that's 8 feet
-   tall by 8 feet long by 7 feet wide.
+   tall by 7 feet long by 8 feet wide.
 
    Instead of doing that, you could `donate to help us make media more
    open <https://www.miroguide.com/donate>`_.

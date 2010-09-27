@@ -49,7 +49,7 @@ copyright = u'2010, Participatory Culture Foundation'
 # built documents.
 #
 # The short X.Y version.
-version = '3.0.3'
+version = '3.5'
 # The full version, including alpha/beta/rc tags.
 release = version
 
