@@ -23,6 +23,7 @@ Contents:
    downloading
    playing
    searching
+   converting
    watchedfolders
    websites
    playlists
