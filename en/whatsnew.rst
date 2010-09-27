@@ -25,22 +25,16 @@ New features:
 
 Other changes:
 
-1. Updated the Windows build environment to be based on Python 2.6 and
-   Visual Studio 2008.
+1. Lots of work on the user interface to make it better.
 
-2. Lots of work on the user interface to make it better.
-
-3. Performance fixes for torrent restarting, proxy/http
+2. Performance fixes for torrent restarting, proxy/http
    authentication, and database usage.
 
-4. Cancel queued auto-downloads.
+3. Cancel queued auto-downloads.
 
-5. Remember tab views.
+4. Remember tab views.
 
-6. (Linux) Movies directory defaults to ``~/Videos/Miro`` per the Free
-   Desktop specification.
-
-7. Moved things around in the directory layout of the source tree:
+5. Moved things around in the directory layout of the source tree:
 
    ==================  ========
    Old path            New path
@@ -51,7 +45,18 @@ Other changes:
    portable/           lib/
    ==================  ========
 
-8. A lot of bug fixes.
+6. (Linux) Movies directory defaults to ``~/Videos/Miro`` per the Free
+   Desktop specification.
+
+7. (Windows) Updated the Windows build environment to be based on
+   Python 2.6 and Visual Studio 2008.
+
+8. (OSX) Updated the OSX build environment to be based on Python 2.6.
+
+9. (OSX) Dropped support for OSX 10.4.
+
+10. A lot of bug fixes.
+
 
 See the `release notes for Miro 3.5 <https://develop.participatoryculture.org/trac/democracy/wiki/3.5ReleaseNotes>`_.
 
