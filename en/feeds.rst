@@ -297,6 +297,12 @@ To share a feed:
 
 2. Click the **Share Feed** button in the header of the item view.
 
+   .. SCREENSHOT
+      Screenshot of Miro showing a feed with the item view with 
+      the "Share Feed" button highlighted.
+
+   .. image:: _static/feeds_share_feed.png
+
    This will open up a Miro Guide page in your web-browser.
 
 3. Choose your desired way to share and fill in the requested

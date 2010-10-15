@@ -21,7 +21,7 @@ General preferences
 .. SCREENSHOT
    Screenshot of General tab in Preferences.
 
-.. image:: _static/configuring_general_tab.jpeg
+.. image:: _static/configuring_general_tab.png
 
 .. index:: startup; running Miro on
 
@@ -53,7 +53,7 @@ Feeds preferences
 .. SCREENSHOT
    Screenshot of Feeds tab in Preferences.
 
-.. image:: _static/configuring_feeds_tab.jpeg
+.. image:: _static/configuring_feeds_tab.png
 
 These settings can be overridden on a per feed basis in the **Feed
 Settings** dialog.  More information at
@@ -109,7 +109,7 @@ Download preferences
 .. SCREENSHOT
    Screenshot of the Downloads tab in Preferences.
 
-.. image:: _static/configuring_downloads_tab.jpeg
+.. image:: _static/configuring_downloads_tab.png
 
 .. index:: downloading; maximum manual downloads
 
@@ -163,7 +163,7 @@ Folder preferences
 .. SCREENSHOT
    Screenshot of the Folders tab in Preferences.
 
-.. image:: _static/configuring_folders_tab.jpeg
+.. image:: _static/configuring_folders_tab.png
 
 .. index:: downloading; destination folder
 
@@ -190,7 +190,7 @@ Disk Space preferences
 .. SCREENSHOT
    Screenshot of the Disk space tab in Preferences.
 
-.. image:: _static/configuring_disk_space_tab.jpeg
+.. image:: _static/configuring_disk_space_tab.png
 
 .. index:: downloading; free space on drive
 
@@ -219,7 +219,7 @@ Playback preferences
 .. SCREENSHOT
    Screenshot of the Playback tab in Preferences.
 
-.. image:: _static/configuring_playback_tab.jpeg
+.. image:: _static/configuring_playback_tab.png
 
 .. index:: playback; external playback
 
@@ -256,6 +256,47 @@ Playback preferences
 
     Miro can stop playing after each item, or play all the items in
     the play list.
+
+
+Conversions preferences
+=======================
+
+.. SCREENSHOT
+   Screenshot of the Conversions tab in Preferences.
+
+.. image:: _static/configuring_conversions_tab.png
+
+.. index:: conversions; concurrent conversions
+
+*Allow this many concurrent conversions*
+
+    Converting media files is CPU-intensive.  If you have multiple
+    CPUs or your CPU has multiple cores, then increasing this number
+    will allow Miro to convert multiple files in parallel.
+
+    If you don't know how many CPUs you have or how many cores are on
+    your CPU, then it's best to leave this at 1.
+
+.. index:: conversions; ffmpeg binary path
+
+*ffmpeg binary path*
+
+    On GNU/Linux, it's possible you might have multiple instances of
+    ffmpeg on your system.  This allows you to specify the complete
+    path to the ffmpeg you want to use.
+
+    Availability: GNU/Linux
+
+.. index:: conversions; ffmpeg2theora binary path
+
+*ffmpeg2theora binary path*
+
+    On GNU/Linux, it's possible you might have multiple instances of
+    ffmpeg2theora on your system.  This allows you to specify the
+    complete path to the ffmpeg2theora you want to use.
+
+    Availability: GNU/Linux
+
 
 .. _configuring-feed-settings:
 

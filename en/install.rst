@@ -31,7 +31,7 @@ Miro runs on Windows XP, Vista and Windows 7.
 Mac OSX
 -------
 
-Miro runs on Mac OSX 10.4 and higher.
+Miro runs on Mac OSX 10.5 and higher.
 
 1. Open up your favorite web-browser and go to http://getmiro.com/ .
 
@@ -47,7 +47,7 @@ Miro runs on Mac OSX 10.4 and higher.
 Ubuntu
 ------
 
-Miro runs on Ubuntu Jaunty, Karmic and Lucid.
+Miro |version| runs on Ubuntu Karmic, Lucid and Maverick.
 
 1. Open up your favorite browser and go to
    http://getmiro.com/download/for-ubuntu/

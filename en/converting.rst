@@ -18,8 +18,6 @@ interface.
       Screenshot of Miro, item view, right clicked on an item showing the
       "Convert to..." menu.
 
-   FIXME - screenshot
-
    .. image:: _static/converting_menu.png
 
 3. The **Conversions** tab will show up in the sidebar.  Clicking on
@@ -28,8 +26,6 @@ interface.
 
    .. SCREENSHOT
       Screenshot of Miro Conversions tab.
-
-   FIXME - screenshot
 
    .. image:: _static/converting_tab.png
 

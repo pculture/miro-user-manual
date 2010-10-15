@@ -15,13 +15,17 @@ New features:
    .. SCREENSHOT
       Screenshot of conversions tab with conversions going.
 
-   FIXME - screenshot
-
    .. image:: _static/whatsnew_3_5_conversions.png
 
 2. **Better HTTP downloading performance.** We switched to using
    libcurl for HTTP downloading which is less CPU-intensive and
    works faster.
+
+3. **HTTP auth digest** Miro now supports both HTTP auth basic and
+   HTTP auth digest.
+
+4. **Proxy authentication** Proxy authentication now works.
+
 
 Other changes:
 
@@ -45,8 +49,8 @@ Other changes:
    portable/           lib/
    ==================  ========
 
-6. (Linux) Movies directory defaults to ``~/Videos/Miro`` per the Free
-   Desktop specification.
+6. (GNU/Linux) Movies directory defaults to ``~/Videos/Miro`` per the
+   Free Desktop specification.
 
 7. (Windows) Updated the Windows build environment to be based on
    Python 2.6 and Visual Studio 2008.
@@ -55,8 +59,11 @@ Other changes:
 
 9. (OSX) Dropped support for OSX 10.4.
 
-10. A lot of bug fixes.
+10. (Windows) Font style preference for subtitles.
 
+11. (Windows, GNU/Linux) Subtitle encoding.
+
+12. A lot of bug fixes.
 
 See the `release notes for Miro 3.5 <https://develop.participatoryculture.org/trac/democracy/wiki/3.5ReleaseNotes>`_.
 

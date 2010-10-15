@@ -37,7 +37,7 @@ When playing video, Miro on OSX looks like this:
 .. SCREENSHOT
    Screenshot of Miro playing a video on OSX with parts labeled.
 
-.. image:: _static/playing_playing_video_osx.jpeg
+.. image:: _static/playing_playing_video_osx.png
 
 
 In this screenshot, you can see:
