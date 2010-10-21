@@ -5,7 +5,7 @@
 What's new in Miro 3.5
 ======================
 
-Released on FIXME.
+Released on October 21st, 2010.
 
 New features:
 
@@ -52,12 +52,12 @@ Other changes:
 6. (GNU/Linux) Movies directory defaults to ``~/Videos/Miro`` per the
    Free Desktop specification.
 
-7. (Windows) Updated the Windows build environment to be based on
+7. (OSX) Updated the OSX build environment to be based on Python 2.6.
+
+8. (OSX) Dropped support for OSX 10.4.
+
+9. (Windows) Updated the Windows build environment to be based on
    Python 2.6 and Visual Studio 2008.
-
-8. (OSX) Updated the OSX build environment to be based on Python 2.6.
-
-9. (OSX) Dropped support for OSX 10.4.
 
 10. (Windows) Font style preference for subtitles.
 
@@ -65,7 +65,7 @@ Other changes:
 
 12. A lot of bug fixes.
 
-See the `release notes for Miro 3.5 <https://develop.participatoryculture.org/trac/democracy/wiki/3.5ReleaseNotes>`_.
+See the `release notes for Miro 3.5 <https://develop.participatoryculture.org/index.php/3.5ReleaseNotes>`_.
 
 
 What's new in Miro 3.0.3
@@ -75,7 +75,7 @@ Released on July 26th, 2010.
 
 Miro 3.0.3 is a bugfix release.
 
-See the `release notes for Miro 3.0 <https://develop.participatoryculture.org/trac/democracy/wiki/3.0ReleaseNotes>`_.
+See the `release notes for Miro 3.0 <https://develop.participatoryculture.org/index.php/3.0ReleaseNotes>`_.
 
 
 What's new in Miro 3.0.2
@@ -85,7 +85,7 @@ Released on May 23rd, 2010.
 
 Miro 3.0.2 is a bugfix release.
 
-See the `release notes for Miro 3.0 <https://develop.participatoryculture.org/trac/democracy/wiki/3.0ReleaseNotes>`_.
+See the `release notes for Miro 3.0 <https://develop.participatoryculture.org/index.php/3.0ReleaseNotes>`_.
 
 
 What's new in Miro 3.0.1
@@ -95,7 +95,7 @@ Released on April 13th, 2010.
 
 Miro 3.0.1 is a bugfix release.
 
-See the `release notes for Miro 3.0 <https://develop.participatoryculture.org/trac/democracy/wiki/3.0ReleaseNotes>`_.
+See the `release notes for Miro 3.0 <https://develop.participatoryculture.org/index.php/wiki/3.0ReleaseNotes>`_.
 
 
 What's new in Miro 3.0
@@ -152,4 +152,4 @@ Other changes:
    folders of feeds, creating and updating large feeds, and adding
    items to a watched folder.
 
-See the `release notes for Miro 3.0 <https://develop.participatoryculture.org/trac/democracy/wiki/3.0ReleaseNotes>`_.
+See the `release notes for Miro 3.0 <https://develop.participatoryculture.org/index.php/3.0ReleaseNotes>`_.
