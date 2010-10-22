@@ -9,22 +9,38 @@ Released on October 21st, 2010.
 
 New features:
 
-1. **Conversions.** Miro allows you to easily convert media to other 
-   video/audio formats for your media devices.
+1. **Conversions**
+
+   Miro allows you to easily convert media to other video/audio
+   formats for your media devices.
 
    .. SCREENSHOT
       Screenshot of conversions tab with conversions going.
 
    .. image:: _static/whatsnew_3_5_conversions.png
 
-2. **Better HTTP downloading performance.** We switched to using
-   libcurl for HTTP downloading which is less CPU-intensive and
-   works faster.
+2. **Improved Library Management**
 
-3. **HTTP auth digest** Miro now supports both HTTP auth basic and
-   HTTP auth digest.
+   Improvements in tab display, item views, and queued download
+   handling.
 
-4. **Proxy authentication** Proxy authentication now works.
+3. **Better HTTP downloading performance**
+
+   We switched to using libcurl for HTTP downloading which is less
+   CPU-intensive and works faster.
+
+4. **HTTP auth digest**
+
+   Miro now supports both HTTP auth basic and HTTP auth digest.
+
+5. **Proxy authentication**
+
+   Proxy authentication now works.
+
+6. **Subtitle preferences**
+
+   Specify font style (Windows) and encoding (Windows, GNU/Linux) to
+   improve the display of subtitles.
 
 
 Other changes:
@@ -59,11 +75,7 @@ Other changes:
 9. (Windows) Updated the Windows build environment to be based on
    Python 2.6 and Visual Studio 2008.
 
-10. (Windows) Font style preference for subtitles.
-
-11. (Windows, GNU/Linux) Subtitle encoding.
-
-12. A lot of bug fixes.
+10. A lot of bug fixes.
 
 See the `release notes for Miro 3.5 <https://develop.participatoryculture.org/index.php/3.5ReleaseNotes>`_.
 
