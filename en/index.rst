@@ -35,6 +35,7 @@ updated |today|.
    playing
    searching
    converting
+   devicesyncing
    watchedfolders
    websites
    playlists
