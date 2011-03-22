@@ -87,7 +87,7 @@ Released on July 26th, 2010.
 
 Miro 3.0.3 is a bugfix release.
 
-See the `release notes for Miro 3.0 <https://develop.participatoryculture.org/index.php/3.0ReleaseNotes>`_.
+See the `release notes for Miro 3.0.3 <https://develop.participatoryculture.org/index.php/3.0ReleaseNotes>`_.
 
 
 What's new in Miro 3.0.2
@@ -97,7 +97,7 @@ Released on May 23rd, 2010.
 
 Miro 3.0.2 is a bugfix release.
 
-See the `release notes for Miro 3.0 <https://develop.participatoryculture.org/index.php/3.0ReleaseNotes>`_.
+See the `release notes for Miro 3.0.2 <https://develop.participatoryculture.org/index.php/3.0ReleaseNotes>`_.
 
 
 What's new in Miro 3.0.1
@@ -107,7 +107,7 @@ Released on April 13th, 2010.
 
 Miro 3.0.1 is a bugfix release.
 
-See the `release notes for Miro 3.0 <https://develop.participatoryculture.org/index.php/wiki/3.0ReleaseNotes>`_.
+See the `release notes for Miro 3.0.1 <https://develop.participatoryculture.org/index.php/wiki/3.0ReleaseNotes>`_.
 
 
 What's new in Miro 3.0
