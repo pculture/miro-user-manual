@@ -8,12 +8,11 @@
 What is Miro?
 =============
 
-Miro is a Free Software video player and podcast client: it can play
-almost any video file and offers easy access to over 6,000 free
-Internet TV shows and video podcasts. You can download from YouTube,
-Google Video, Vimeo, DailyMotion, Blip, and more.  You can even save a
-search term as a feed and automatically get new videos as they are
-posted.
+.. Todo:
+   
+   Rewrite this
+
+Miro is a Free Software media player.  
 
 Miro has a simple, gorgeous interface designed for fullscreen HD
 video.  Since Miro downloads most videos, you can take your shows with

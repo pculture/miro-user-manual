@@ -7,25 +7,15 @@
  User Manual for Miro |version|
 ================================
 
-Manuals for older versions of Miro
-==================================
-
-Miro 3.0, 3.0.1, 3.0.2, 3.0.3: http://manual.getmiro.com/3/
-
-
 Contents
 ========
 
-Welcome to the User Manual for Miro!
-
-This manual covers basic usage of Miro for Miro |version| last 
-updated |today|.
+Welcome to the User Manual for Miro |version|!  Last updated |today|.
 
 
 .. toctree::
    :maxdepth: 2
 
-   aboutmanual
    project
    whatsnew
    install
@@ -36,12 +26,14 @@ updated |today|.
    searching
    converting
    devicesyncing
+   sharing
    watchedfolders
-   websites
+   sources 
    playlists
    configuring
-   contributing
    troubleshooting
+   contributing
+   aboutmanual
 
 Indices and tables
 ==================
@@ -50,3 +42,10 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+
+Manuals for older versions of Miro
+==================================
+
+Miro 3.5, 3.5.1: http://manual.getmiro.com/3.5/
+
+Miro 3.0, 3.0.1, 3.0.2, 3.0.3: http://manual.getmiro.com/3/

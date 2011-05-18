@@ -47,7 +47,7 @@ Miro runs on Mac OSX 10.5 and higher.
 Ubuntu
 ------
 
-Miro |version| runs on Ubuntu Karmic, Lucid and Maverick.
+Miro |version| runs on Ubuntu Lucid, Maverick, and Natty.
 
 1. Open up your favorite browser and go to
    http://getmiro.com/download/for-ubuntu/

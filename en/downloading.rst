@@ -22,6 +22,7 @@ To download an item from a feed:
 
 .. image:: _static/downloading_feed_item.png
 
+
 .. index:: downloading; item from video search
 
 Downloading an item from a video search
@@ -38,10 +39,10 @@ Downloading an item from a video search
 .. image:: _static/downloading_video_search_item.png
 
 
-.. index:: downloading; item from website
+.. index:: downloading; item from source 
 
-Downloading an item from Miro Guide or a Website
-================================================
+Downloading an item from Miro Guide or a Source
+===============================================
 
 While browsing around in a website, you will find links to media items.
 Clicking on one of these links will download the item in Miro.
@@ -111,3 +112,16 @@ do.
    for Miro) back in 2006:
 
    http://www.youtube.com/watch?v=wuGbLY-l930
+
+
+.. index:: downloading; torrents
+
+Torrents
+========
+
+FIXME - flesh this out
+
+Miro is a torrent client.
+
+* downloading torrents
+* resume seeding seeding

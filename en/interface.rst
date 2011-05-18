@@ -67,9 +67,9 @@ audio items, and the **Other** tab is a catch-all for everything
 else---for example, PDF files or images.  The **Downloading** tab
 shows you everything that is currently downloading or seeding.
 
-Next is the **Websites** section which holds websites.  A website is
-any website you want bookmarked to view inside of Miro.  Websites are
-covered in :ref:`websites-chapter`.
+Next is the **Sources** section which holds sources for media.  A source 
+is any website you want bookmarked to view inside of Miro.  Sources are
+covered in :ref:`sources-chapter`.
 
 After that is the **Video feeds** section which holds video podcast
 feeds and the **Audio feeds** section which holds audio podcast feeds.

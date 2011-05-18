@@ -42,14 +42,14 @@ master_doc = centralconf.master_doc
 
 # General information about the project.
 project = u'User Manual for Miro'
-copyright = u'2010, Participatory Culture Foundation'
+copyright = u'2010, 2011 Participatory Culture Foundation'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 #
 # The short X.Y version.
-version = '3.5.1'
+version = '4.0'
 # The full version, including alpha/beta/rc tags.
 release = version
 

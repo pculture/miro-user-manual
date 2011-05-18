@@ -4,4 +4,6 @@
 
 .. index:: syncing; syncing with devices
 
-FIXME - write this!
+Miro supports syncing and playing media from devices.
+
+FIXME - Flesh this out
