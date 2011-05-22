@@ -8,11 +8,15 @@
 
 This chapter covers configuring Miro.
 
-Configuring Miro happens in two places: in the **Preferences** dialog
-which affects all of Miro and in the **Feed Settings** dialog which
-affects a specific feed.
+Configuring Miro happens in two places:
 
-The **Preferences** dialog is available in the **Video** menu.
+1. In the **Preferences** dialog which affects all of Miro.  You can
+   find the **Preferences** dialog from the **File** ->
+   **Preferences** in the menus.
+2. In the **Podcast Settings** dialog which affects a specific
+   podcast.  You can find the **Podcast Settings** dialog by clicking
+   on a podcast in the sidebar, then clicking on the **Settings**
+   button at the bottom.
 
 
 General preferences
@@ -30,12 +34,44 @@ General preferences
     Check this if you want Miro to launch when you log into your
     computer.
 
+.. index:: startup; show the last view I was in
+
+*When starting up Miro, remember what screen I was on when I last quit*
+
+    Check this if you want Miro to show the view you were last in when
+    you quit the last time.
+
+    If this is unchecked, Miro will always show the Miro Guide when
+    you start.
+
 .. index:: quitting; when downloads in progress
 
 *Warn me if I attempt to quit with downloads in progress*
 
     Check this if you want Miro to pop up a dialog asking you if you
     really want to quit Miro if you have items currently downloading.
+
+.. index:: quitting; when conversions in progress
+
+*Warn me if I attempt to quit with conversions in progress*
+
+    Check this if you want Miro to pop up a dialog asking you if you
+    really want to quit Miro if you have conversions in progress.
+
+.. index:: interface; language
+
+*Language*
+
+    By default, Miro uses the language that your system is using
+    for its user interface.
+
+    This drop down allows you to override that and pick the language
+    you would rather see the user interface in.
+
+    .. Note::
+
+       When you change the *Language* setting, you must restart
+       Miro for changes to take effect.
 
 .. index:: trayicon, system tray, status tray
 
@@ -45,66 +81,86 @@ General preferences
 
     Availability: GNU/Linux and Windows
 
-.. index:: feed; preferences, feed; settings
 
-Feeds preferences
-=================
+.. index:: podcast; preferences, podcast; settings
+
+Podcasts preferences
+====================
 
 .. SCREENSHOT
-   Screenshot of Feeds tab in Preferences.
+   Screenshot of Podcasts tab in Preferences.
 
 .. image:: _static/configuring_feeds_tab.png
 
-These settings can be overridden on a per feed basis in the **Feed
-Settings** dialog.  More information at
-:ref:`configuring-feed-settings`.
+These settings can be overridden on a per podcast basis in the
+**Podcasts Settings** dialog.  More information at
+:ref:`configuring-podcast-settings`.
 
-.. index:: feeds; checking for new items
+.. index:: interface; showing podcasts in Videos section
+
+*Show videos from podcasts in Videos section.*
+
+    Check this if you want videos from podcasts to show up in
+    the **Videos** tab in the sidebar.
+
+    By default, podcast videos don't show up.
+
+.. index:: interface; showing podcasts in Music section
+
+*Show audio from podcasts in the Music section.*
+
+    Check this if you want audio from podcasts to show up in the
+    **Music** tab in the sidebar.
+
+    By default, podcast audio doesn't show up.
+
+.. index:: podcasts; checking for new items
 
 *Check for new content*
 
-    Controls how often Miro checks a feed to see if there are new
+    Controls how often Miro checks a podcast to see if there are new
     items.
 
-    * *Every day* - Miro will check the feed for new items once a day.
+    * *Every day* - Miro will check the podcast for new items once a day.
 
-    * *Every hour* - Miro will check the feed for new items once an
+    * *Every hour* - Miro will check the podcast for new items once an
       hour.
 
-    * *Every 30 minutes* - Miro will check the feed for new items
+    * *Every 30 minutes* - Miro will check podcast feed for new items
       every 30 minutes.
 
-    * *Manually* - Miro will not automatically check the feed.  You
-      can update the feed with the **Update Feed** menu item in the
-      **Sidebar** menu.
+    * *Manually* - Miro will not automatically check the podcast.  You
+      can update the feed with the **Update Podcast** and **Update all
+      Podcasts and Library** menu items in the **Sidebar** menu.
 
 .. index:: downloading; automatically downloading
 
-*Auto download setting*
+*Auto-download setting*
 
-    If *Auto Download* is set to *New* or *All*, Miro will queue items
-    to automatically download if you have unplayed items.  The number of
-    unplayed items that trigger queueing of automatically download items is
-    configured with the *Pause Auto-Downloading when this many items
-    are unplayed* setting.  The default is 3.
+    If *Auto-download* is set to *New* or *All*, Miro will queue items
+    to automatically download if you have unplayed items.  The number
+    of unplayed items that trigger queueing of automatically download
+    items is configured with the *Pause Auto-downloading when this
+    many items are unplayed* setting.  The default is 3.
 
     When this is set, once there are 3 items in a feed marked as
-    unplayed, Miro will queue items for automatically download and wait until
-    the number of unplayed items drops below the threshold to download
-    more.  Once an unplayed item in the feed has been played, then
-    next item will begin to download.
+    unplayed, Miro will queue items for automatically download and
+    wait until the number of unplayed items drops below the threshold
+    to download more.  Once an unplayed item in the feed has been
+    played, then next item will begin to download.
 
-.. index:: feeds; remembering old items
+.. index:: podcasts; remembering old items
 
 *Remember this many old items*
 
-    Miro can remember items that used to be in a feed long after they
-    stop showing up in the feed.  By default, Miro will remember up to
-    20 old items per feed.
+    Miro can remember items that used to be in a podcast long after
+    they stop showing up in the feed.
+
+    By default, Miro will remember up to 20 old items per podcast.
 
 
-Download preferences
-====================
+Downloads preferences
+=====================
 
 .. SCREENSHOT
    Screenshot of the Downloads tab in Preferences.
@@ -143,9 +199,19 @@ Download preferences
 
         Limits the maximum number of bittorrent connections.
 
+    *Starting port* *Ending port*
+
+        These two define the range of ports that Miro can use for
+        incoming torrent connections.
+
     *Automatically forward ports. (UPNP)*
 
         Check this if you want Miro to automatically forward ports.
+
+    *Use DHT to find more peers*
+
+        Check this if you want Miro to use DHT (distributed hash
+        table) support for bittorrent.
 
     *Ignore unencrypted connections*
 
@@ -157,8 +223,14 @@ Download preferences
         Miro will stop uploading when the specified ratio of upload to
         download is reached.
 
-Folder preferences
-==================
+        This is the ratio of total amount uploaded to total amount
+        downloaded.  For example, if you set the ratio to 2.0, then
+        Miro will stop the torrent uploading when it has uploaded
+        twice as much as it has downloaded.
+
+
+Folders preferences
+===================
 
 .. SCREENSHOT
    Screenshot of the Folders tab in Preferences.
@@ -225,9 +297,9 @@ Playback preferences
 
 *Play media in Miro*
 
-    Miro has a video renderer that will play media.  If you don't like
-    this renderer, you can opt to play all media in your operating
-    system's associated application for that media type.
+    Miro can play most media.  However, if you don't like Miro playing
+    your media, then you can opt to play all your media with your
+    operating system's associated application for that media type.
 
 .. index:: playback; detached window
 
@@ -236,19 +308,16 @@ Playback preferences
     Miro can play videos in the main view.  If you check this, then
     Miro will play all videos in a separate detached window.
 
-.. index:: playback; resuming
-
-*Resume playing a video or audio item from the point it was last stopped*
-
-    When you stop playing a video or audio item, Miro can remember the
-    point at which you stopped playing it.  The next time you play the
-    video or audio item, Miro will resume playing at that point.
-
-.. index:: playback; subtitles
+.. index:: playback; automatically enable subtitles
 
 *Automatically enable movie subtitles when available*
 
-    Miro will enable subtitles for movies.
+    Miro can automatically enable subtitles when they are available
+    for the video you are watching.  It picks the subtitle track
+    labeled as default.  If there isn't one labeled as default, then
+    it picks the first one.
+
+.. index:: playback; continuous playback
 
 *Play video and audio items one after another*
 
@@ -257,6 +326,67 @@ Playback preferences
     Miro can stop playing after each item, or play all the items in
     the play list.
 
+.. index:: playback; resuming
+
+*Continue playing videos from where they were last stopped*
+
+*Continue playing music files from where they were last stopped*
+
+*Continue playing podcast files from where they were last stopped*
+
+    Miro can remember the point at which you stopped playing a piece
+    of media.  The next time you play the media item, Miro will resume
+    playing at that point.
+
+    Checking the checkbox next to the media type will tell Miro to
+    keep track of and resume playing media of that type from the point
+    where you stopped.
+
+
+Sharing preferences
+===================
+
+.. SCREENSHOT
+   Screenshot of the Sharing tab in the Preferences.
+
+.. index:: sharing; share media library
+
+*Share my media library*
+
+    This enables sharing in Miro.  When you check this, Miro will
+    share its contents with other DAAP clients on the local network.
+
+    This allows you to keep your media on one computer and view it on
+    another.
+
+.. index:: quitting; when someone is connected to my library
+
+*Warn on quit when others are connected to my library*
+
+    Check this if you want Miro to pop up a dialog asking you if you
+    really want to quit Miro if someone is connected to your library.
+
+.. index:: sharing; share name
+
+*Share name*
+
+    This is the name that your Miro library will show up as on the
+    network.  Other people who are trying to connect to your Miro
+    library will see this name show up in their list and connect to
+    it.
+
+.. index:: sharing; share all video
+
+*Share my video library*
+
+    Check this if you want to share all your video.
+
+.. index:: sharing; share all music
+
+*Share my music library*
+
+    Check this if you want to share all your music.
+    
 
 Conversions preferences
 =======================
@@ -298,64 +428,101 @@ Conversions preferences
     Availability: GNU/Linux
 
 
-.. _configuring-feed-settings:
+Stores preferences
+==================
 
-Feed settings
-=============
+.. index:: stores; selecting stores
 
-Miro allows you to configure some behavior on a feed by feed basis.
-This is done in the **Feed Settings** dialog.
+*MP3 Stores*
 
-To get to the **Feed Settings** dialog:
+    Check the boxes in the **Visible** column for the stores you
+    want to see in the sidebar.
 
-1. Select the feed in the sidebar that you want to configure.
+    Stores allow you to purchase items and have Miro download those
+    items directly.
 
-2. Click on the **Settings** button in the header of the item view.
+
+Extensions preferences
+======================
+
+.. index:: extensions; enabling/disabling/configuring extensions
+
+.. Note::
+
+   Extensions are a beta feature in Miro 4.  Miro 4 comes with
+   one extension which is not useful, but provides an example for
+   people who want to build extensions.
+
+   For more information on extensions in Miro, see `the
+   ExtensionSystem wiki page
+   <http://develop.participatoryculture.org/index.php/ExtensionSystem>`_.
+
+This allows you to enable, disable and view extensions that are
+installed on your system.
+
+Because this is a beta feature and Miro doesn't ship with any useful
+extensions, I'm going to leave it at that for now.
+
+
+.. _configuring-podcast-settings:
+
+Podcast settings
+================
+
+Miro allows you to configure some behavior on a podcast by podcast
+basis.  This is done in the **Podcast Settings** dialog.
+
+To get to the **Podcast Settings** dialog:
+
+1. Select the podcast in the sidebar that you want to configure.
+
+2. Click on the **Settings** button in the footer of the main view.
 
 When you do that, you'll see this dialog:
 
 .. SCREENSHOT
-   Screenshot of Feed Settings dialog.
+   Screenshot of Podcast Settings dialog.
 
 .. image:: _static/configuring_feed_settings_dialog.png
 
-.. index:: feeds; pausing automatic downloading
+.. index:: podcasts; pausing automatic downloading
 
 *Pause auto-downloading when items are unplayed*
 
     If *Auto Download* is set to *New* or *All*, Miro will queue items
-    to automatically download if you have unplayed items.  The number of
-    unplayed items that trigger queueing of automatically download items is
-    configured with the *Pause Auto-Downloading when this many items
-    are unplayed* setting.  The default is 3.
+    to automatically download if you have unplayed items.  The number
+    of unplayed items that trigger queueing of automatically download
+    items is configured with the *Pause Auto-Downloading when this
+    many items are unplayed* setting.  The default is 3.
 
-    When this is set, once there are 3 items in a feed marked as
-    unplayed, Miro will queue items for automatically download and wait until
-    the number of unplayed items drops below the threshold to download
-    more.  Once an unplayed item in the feed has been played, then
-    next item will begin to download.
+    When this is set, once there are 3 items in a podcast marked as
+    unplayed, Miro will queue items for automatically download and
+    wait until the number of unplayed items drops below the threshold
+    to download more.  Once an unplayed item in the podcast has been
+    played, then next item will begin to download.
 
 .. index:: items; expiring
 
-*Auto-expire Videos*
+*Auto-Expire Items*
 
     Miro will expire items in a feed that have been played.  You can
-    control how soon the items get expired in this feed with this setting.
+    control how soon the items get expired in this podcast with this
+    setting.
 
-.. index:: feeds; remembering old items
+.. index:: podcasts; remembering old items
 
-*Outdated Feed Items*
+*Outdated Podcast Items*
 
-    Miro can remember items that used to be in a feed long after they stop
-    showing up in the feed.  This is the *Outdated Feed Items* settings.
-    By default, the global preference setting will remember up to 20 old
-    items per feed.
+    Miro can remember items that used to be in a podcast long after
+    they stop showing up in the feed.  This is the *Outdated Podcast
+    Items* settings.  By default, the global preference setting will
+    remember up to 20 old items per podcast.
 
-    You can override this on a per feed basis and and keep from 0 to 1000
-    outdated items with the *Outdated Feed Items* setting.
+    You can override this on a per podcast basis and and keep from 0
+    to 1000 outdated items with the *Outdated Podcast Items* setting.
 
-    The feed will update and either remove old feed items that are not
-    downloaded, or continue to store additional feed contents.
+    The podcast will update and either remove old podcast items that
+    are not downloaded, or continue to store additional feed contents.
 
-    To clear out all old feed content, press the **Remove All**
+    To clear out all old podcast content, press the **Remove All**
     button.
