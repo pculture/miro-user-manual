@@ -26,7 +26,7 @@ Welcome to the User Manual for Miro |version|!  Last updated |today|.
    whatsnew
    install
    interface
-   feeds
+   podcasts 
    downloading
    playing
    searching
