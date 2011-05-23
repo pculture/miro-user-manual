@@ -331,7 +331,7 @@ in the feed.  There are three possible values:
 
    *New* and *All* are limited by the *Pause Auto-Downloading when
    this many items are unplayed* setting in the feed **Feed Settings**
-   dialog.  This is discussed in :ref:`configuring-feed-settings`.
+   dialog.  This is discussed in :ref:`configuring-podcast-settings`.
 
 
 To change *Auto Download* setting:
@@ -346,4 +346,4 @@ Configuring feed settings
 =========================
 
 Configuring feed settings is covered in
-:ref:`configuring-feed-settings`.
+:ref:`configuring-podcast-settings`.
