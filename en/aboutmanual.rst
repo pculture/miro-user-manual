@@ -14,6 +14,7 @@ Who wrote it
 
 * Janet Dragojevic
 * Will Kahn-Greene
+* Paul Swartz
 
 
 How it's written
@@ -25,21 +26,22 @@ It will help get users familiar with the interface, answer their basic
 "How do I...?" questions, and point them in the right direction if
 they have further questions.
 
-It's written using `Emacs`_, `Restructured Text`_, and the `Sphinx`_
-build tools.
+It's written using `Emacs`_, `Restructured Text`_, `Sphinx`_, and
+various `EtherPad`_ instances..
+
+Screenshots on Linux were taken using `Shutter`_ and edited in
+`Gimp`_.  
+
+Screenshots on OSX were taken using `Skitch`_ and edited in
+`Gimp`_.
 
 .. _Emacs: http://www.gnu.org/software/emacs/
 .. _Restructured Text: http://docutils.sourceforge.net/rst.html
 .. _Sphinx: http://sphinx.pocoo.org/
-
-Screenshots were taken using `Shutter`_ and edited in `Gimp`_.
-
+.. _EtherPad: http://en.wikipedia.org/wiki/EtherPad
 .. _Shutter: http://shutter-project.org/
 .. _Gimp: http://www.gimp.org/
-
-Collaborative editing was done with `PiratePad`_.
-
-.. _PiratePad: http://piratepad.net/
+.. _Skitch: http://skitch.com/
 
 
 How to help
