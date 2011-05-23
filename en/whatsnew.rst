@@ -2,6 +2,28 @@
  What's new in Miro
 ====================
 
+What's new in Miro 4.0
+======================
+
+Released on May 23rd, 2011.
+
+New features:
+
+1. **Better user interface**
+
+2. **Device syncing**
+
+3. **Sharing and streaming to other devices**
+
+4. **Amazon store access**
+
+5. **Metadata extraction**
+
+6. **Performance enhancements**
+
+See the `release notes for Miro 4.0 <https://develop.participatoryculture.org/index.php/4.0ReleaseNotes>`_.
+
+
 What's new in Miro 3.5
 ======================
 
