@@ -70,10 +70,10 @@ all your other feeds.
 
 .. index:: searching: finding items
 
-.. _searching-feeds-for-specific-items:
+.. _searching-podcasts-for-specific-items:
 
-Searching feeds for specific items
-==================================
+Searching podcasts for specific items
+=====================================
 
 Miro can let you search the titles, descriptions and filenames of all
 items in a feed for a search string making items easier to find.

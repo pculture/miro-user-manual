@@ -1,18 +1,18 @@
 .. _podcasts-chapter:
 
-=======
- Feeds
-=======
+==========
+ Podcasts
+==========
 
-Miro allows you to subscribe to feeds which are audio and video
-podcasts.  This chapter covers what feeds are, how to subscribe to
-them and how to manage them in Miro.
+Miro allows you to subscribe to audio and video podcasts.  This
+chapter covers what podcasts are, how to subscribe to them and how to
+manage them in Miro.
 
 
-.. index:: feeds; what is a feed?
+.. index:: podcasts; what is a podcast?
 
-What is a feed?
-===============
+What is a podcast?
+==================
 
 There are many podcasts out there on the Internet.  A podcast is some
 episodic show that's syndicated on the Internet.  Podcasts are often
@@ -84,22 +84,22 @@ indicated by words like:
 * Add to Miro
 * ...
 
-Miro is a podcast client.  You subscribe to feeds for podcasts that
-you're interested in.  Miro will automatically download and parse the
-feeds you're subscribed to looking for new podcast episodes.
+Miro is a podcast client.  You subscribe to podcasts that you're
+interested in.  Miro will automatically download and parse the feeds
+you're subscribed to looking for new podcast episodes.
 
 
-.. index:: feeds; subscribing
+.. index:: podcasts; subscribing
 
-Subscribing to a feed
-=====================
+Subscribing to a podcast
+========================
 
-Miro allows you to subscribe to feeds.  There are a few different ways
-to do this.
+Miro allows you to subscribe to podcasts.  There are a few different
+ways to do this.
 
 
-Subscribing to a feed through the Miro Guide
---------------------------------------------
+Subscribing to a podcast through the Miro Guide
+-----------------------------------------------
 
 When browsing the Miro Guide in Miro, you can subscribe to a feed by
 clicking on a "ADD FEED TO YOUR SIDEBAR" button:
@@ -108,11 +108,11 @@ clicking on a "ADD FEED TO YOUR SIDEBAR" button:
    Screenshot of Miro showing Miro Guide with an Add Feed To 
    Miro button.
 
-.. image:: _static/feeds_miro_guide.png
+.. image:: _static/podcasts_miro_guide.png
 
 
-Subscribing to a feed through websites
---------------------------------------
+Subscribing to a podcast through websites
+-----------------------------------------
 
 Some websites have a "Miro" link or a "subscribe with Miro" link that
 when clicked on will subscribe the feed in Miro.  Here are a bunch of
@@ -121,157 +121,123 @@ examples:
 .. SCREENSHOT
    Screenshot of website with Subscribe with Miro button.
 
-.. image:: _static/feeds_web_site.png
+.. image:: _static/podcasts_web_site.png
 
 
-Subscribing to a feed by entering in the url
---------------------------------------------
+Subscribing to a podcast by entering in the url
+-----------------------------------------------
 
 Many podcasts have a website and on the website is a url for the
 feed for that podcast.
 
-1. In Miro, select the **Sidebar** -> **Add Feed** menu item.  This
-   brings up the **Add Feed** dialog.
+1. In Miro, select the **Sidebar** -> **Add Podcast** menu item.  This
+   brings up the **Add Podcast** dialog.
+
+2. Paste or type the url for the podcast into this dialog.
+
+3. Click on the **Create Podcast** button.  That will create the
+   podcast and you'll see the podcast show up in the sidebar in
+   the **Podcasts** section.
 
    .. SCREENSHOT
-      Screenshot of Add Feed dialog here
+      Screenshot of added podcast
 
-   .. image:: _static/feeds_add_feed_dialog.png
-
-2. Paste or type the url for the podcast feed into this dialog.
-
-3. If the feed is a video podcast, select the *video* radio button.
-
-   If the feed is an audio podcast, select the *audio* radio button.
-
-   If you don't know, leave it at *video*---you can always change it
-   later.
-
-4. Click on the **Create Feed** button.  That will create the feed and
-   you'll see the feed show up in the sidebar in the section you
-   specified.
-
-   .. SCREENSHOT
-      Screenshot of added feed
-
-   .. image:: _static/feeds_added_feed.png
+   .. image:: _static/podcasts_added_podcast.png
 
 
-.. index:: feeds; deleting
+.. index:: podcasts; removing
 
-Deleting a feed
-===============
+Removing a podcast
+==================
 
-To delete a feed:
+To remove a podcast:
 
-1. Select the feed in the sidebar.
+1. Select the podcast in the sidebar.
 
-2. Select the **Sidebar** -> **Remove Feed** menu item.  This brings
-   up the **Remove Feed** dialog.
+2. Select the **Sidebar** -> **Remove Podcast** menu item.  This
+   brings up the **Remove Podcast** dialog.
 
-   .. SCREENSHOT
-      Screenshot of Remove Feed dialog.
-
-   .. image:: _static/feeds_remove_feed_dialog.png
-   
 3. Click on the **Remove** button.
 
 
-If you want to delete more than one feed at the same time:
+If you want to delete more than one podcast at the same time:
 
-1. Select all the feeds you want to delete in the sidebar.
+1. Select all the podcasts you want to delete in the sidebar.
 
-2. Click on the **Remove Feeds** button in the main view.
+2. Click on the **Remove Podcasts** button in the main view.
 
 
-When deleting a feeds or several feeds a confirmation dialog is
+When deleting a podcast or several podcasts a confirmation dialog is
 displayed.  If you have downloads in progress, you are warned that the
 downloads will be cancelled.  If you have already downloaded items
-from these feeds, you will have the option to keep or delete the
+from these podcasts, you will have the option to keep or delete the
 downloaded items:
 
 .. SCREENSHOT
-   Screenshot of remove feed dialog for removing a feed with
-   items that are downloading and items in the feed.
 
-.. image:: _static/feeds_remove_feed_dialog_with_text.png
+   Screenshot of remove podcast dialog for removing a podcast with
+   items that are downloading and items in the podcast.
 
-.. index:: feeds; renaming
+.. image:: _static/podcasts_remove_podcast_dialog_with_text.png
 
-Renaming a feed
-===============
 
-To rename a feed:
+.. index:: podcasts; renaming
 
-1. Select the feed in the sidebar.
+Renaming a podcast
+==================
 
-2. Select the **Sidebar** -> **Rename Feed** menu item.  This brings
-   up the **Rename Feed** dialog.
+To rename a podcast:
 
-   .. SCREENSHOT
-      Screenshot of Rename Feed dialog.
+1. Select the podcast in the sidebar.
 
-   .. image:: _static/feeds_rename_feed_dialog.png
+2. Select the **Sidebar** -> **Rename Podcast** menu item.  This brings
+   up the **Rename Podcast** dialog.
 
-3. Type the new name of the feed and then click on the **Rename**
+3. Type the new name of the podcast and then click on the **Rename**
    button.
 
 
-.. index:: feeds; finding items
+.. index:: podcasts; finding items
 
-Finding items in a feed
-=======================
+Finding items in a podcast
+==========================
 
-Some feeds are really big and it's hard to find the item you're
-looking for.  You can search for items within a feed.  This is covered
-in :ref:`searching-feeds-for-specific-items`.
+Some podcasts are really big and have hundreds of items in them and
+it's hard to find the item you're looking for.  You can search for
+items within a podcast.  This is covered in
+:ref:`searching-podcasts-for-specific-items`.
 
 
-.. index:: feeds; organizing into folders
+.. index:: podcasts; organizing into folders
 
-Organizing feeds into folders
-=============================
+Organizing podcasts into folders
+================================
 
-If you have a group of feeds with similar content, you may choose to
-organize them into a feed folder.  This will allow you to view the new
-or downloaded items in the same view.  Feed folders can be closed or
-expanded in the sidebar view.
+If you have a group of podcasts with similar content, you may choose
+to organize them into a podcast folder.  This will allow you to view
+the new or downloaded items in the same view.  Podcast folders can be
+closed or expanded in the sidebar view.
 
-To create a new feed folder:
+To create a new podcast folder:
 
 1. Select the **Sidebar** -> **New Folder** menu item.  This brings up
-   the Create Feed Folder dialog.
+   the Create Podcast Folder dialog.
 
-   .. SCREENSHOT
-      Screenshot of Add Folder dialog
-    
-   .. image:: _static/feeds_new_folder_dialog.png
-    
 2. Enter the name of the new folder.
 
-3. If the folder will hold video feeds, specify *video*.
+3. Click the **Create Folder** button
 
-   If the folder will hold audio feeds, specify *audio*.
-
-4. Click the **Create Folder** button
-
-   The folder is added to the sidebar, you can now drag and drop feeds
-   into the folder.
+   The folder is added to the sidebar, you can now drag and drop
+   podcasts into the folder.
 
 
-You can also select the feeds and put them in a folder:
+You can also select the podcasts and put them in a folder:
 
-1. Use Shift-click or Ctrl-click to select the feeds that you would
+1. Use Shift-click or Ctrl-click to select the podcasts that you would
    like to group in a folder.
 
-2. The main view will display the number of feeds selected with the
+2. The main view will display the number of podcasts selected with the
    **Delete** and **Put Into a New Folder** buttons.
-
-   .. SCREENSHOT
-      Screenshot of Miro with several feeds selected showing the
-      multiple feeds selected in the main view.
-
-   .. image:: _static/feeds_multiple_feeds_selected.png
 
 3. Click the **Put Into a New Folder** button
 
@@ -279,29 +245,24 @@ You can also select the feeds and put them in a folder:
 
 5. Click the **Create Folder** button.
 
-   The folder is added to the sidebar with the selected feeds in it.
+   The folder is added to the sidebar with the selected podcasts in
+   it.
 
 
-.. index:: feeds; sharing
+.. index:: podcasts; sharing
 
-Sharing a feed with others
-==========================
+Sharing a podcast with others
+=============================
 
-If you have found a feed you really like, you can share it with other
-people.  Miro allows feed sharing through email, Twitter, Facebook,
-Digg, Stumble upon and delicious.
+If you have found a podcast you really like, you can share it with
+other people.  Miro allows feed sharing through email, Twitter,
+Facebook, Digg, Stumble upon and delicious.
  
-To share a feed:
+To share a podcast:
 
-1. Select the feed in the sidebar that you want to share.
+1. Select the podcast in the sidebar that you want to share.
 
-2. Click the **Share Feed** button in the header of the item view.
-
-   .. SCREENSHOT
-      Screenshot of Miro showing a feed with the item view with 
-      the "Share Feed" button highlighted.
-
-   .. image:: _static/feeds_share_feed.png
+2. Choose **Sidebar** -> **Share with a Friend** menu item.
 
    This will open up a Miro Guide page in your web-browser.
 
@@ -309,20 +270,20 @@ To share a feed:
    information.
 
 
-.. index:: feeds; automatic download
+.. index:: podcasts; automatic download
 
 Changing automatic download setting
 ===================================
 
-Periodically, Miro checks the feed to see if there are new items.  The
-*Auto Download* setting tells Miro what to do when it sees new items
-in the feed.  There are three possible values:
+Periodically, Miro checks the podcast to see if there are new items.
+The *Auto Download* setting tells Miro what to do when it sees new
+items in the podcast.  There are three possible values:
 
-* *New*: When a feed is added, the most recent item will begin to
-  download.  After that when the feed updates, new items will also be
-  automatically downloaded by Miro.
+* *New*: When a podcast is added, the most recent item will begin to
+  download.  After that when the podcast updates, new items will also
+  be automatically downloaded by Miro.
 
-* *All*: All items in the feed will be queued for download starting
+* *All*: All items in the podcast will be queued for download starting
   with the most recent.
 
 * *Off*: Items will not be automatically downloaded.
@@ -330,20 +291,20 @@ in the feed.  There are three possible values:
 .. Note::
 
    *New* and *All* are limited by the *Pause Auto-Downloading when
-   this many items are unplayed* setting in the feed **Feed Settings**
+   this many items are unplayed* setting in the **Podcast Settings**
    dialog.  This is discussed in :ref:`configuring-podcast-settings`.
 
 
 To change *Auto Download* setting:
 
-1. Select the feed in the sidebar.
+1. Select the podcast in the sidebar.
 
-2. Select *Off*, *New* or *All* from the *Auto Download* menu in the 
-   item view header.
+2. Click on the **Auto-Download** toggle button in the footer of the
+   **main view**.
     
 
-Configuring feed settings
-=========================
+Configuring podcast settings
+============================
 
-Configuring feed settings is covered in
+Configuring podcast settings is covered in
 :ref:`configuring-podcast-settings`.
