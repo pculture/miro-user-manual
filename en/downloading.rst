@@ -2,16 +2,16 @@
  Downloading items
 ===================
 
-.. index:: downloading; item from feed
+.. index:: downloading; item from podcast
 
-Downloading an item from a feed
-===============================
+Downloading an item from a podcast
+==================================
 
-To download an item from a feed:
+To download an item from a podcast:
 
-1. Select the tab for the feed in the sidebar.
+1. Select the tab for the podcast in the sidebar.
 
-2. Browse through the list of items in that feed in the main view.
+2. Browse through the list of items in that podcast in the main view.
 
 3. Find the item you want to download and click on the **Download**
    button.
@@ -20,7 +20,7 @@ To download an item from a feed:
    Screenshot of Miro showing the download button of an item in 
    an item list.
 
-.. image:: _static/downloading_feed_item.png
+.. image:: _static/downloading_podcast_item.png
 
 
 .. index:: downloading; item from video search
@@ -71,13 +71,8 @@ Downloading an item
 Miro can also download items that aren't in feeds that you've
 subscribed to or from video search.
 
-1. Select the **Video** -> **Download Item** menu item.  This will
+1. Select the **File** -> **Download from a URL** menu item.  This will
    launch the **New Download** dialog window.
-
-   .. SCREENSHOT
-      Screenshot of Miro showing the New Download dialog
-
-   .. image:: _static/downloading_new_download.png
 
 2. Fill in the url of the item.
 
@@ -91,9 +86,9 @@ subscribed to or from video search.
 3. Click on the **OK** button.
 
 Miro will now attempt to download this item.  If the download is
-successful, then the item will show up in the sidebar in the **Video**
-or **Audio** tab of the **Library** depending on whether the media
-item is video or audio.
+successful, then the item will show up in the sidebar in the
+**Videos** or **Music** tab of the **Library** depending on whether
+the media item is video or audio.
 
 If the url leads to something that's not a media item, Miro will pop
 up a dialog box telling you as such and asking you what you want it to
