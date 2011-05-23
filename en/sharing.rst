@@ -1,3 +1,5 @@
+.. _sharing-chapter:
+
 =========
  Sharing
 =========

@@ -22,10 +22,8 @@ The labeled areas are these:
 
 1. This is the **menu**.
 
-2. This is the **sidebar**.  It allows you to navigate to the Miro
-   Guide, video search, different views of your media library,
-   websites, feeds, and playlists.  Clicking on an item in the sidebar
-   will bring up that item's display in the main view.
+2. This is the **sidebar**.  Clicking on the tabs opens it in the main
+   view.
 
 3. This is the **main view**.  This screenshot is showing the browser
    display.
@@ -49,34 +47,60 @@ applications.
 The sidebar
 ===========
 
-The sidebar manages things.  Each item in the sidebar is called a
-*tab*.  Clicking on a particular tab will display it's content in the
-main view.
+The sidebar allows you to navigate to see everything that Miro is
+managing.  Each item in the sidebar is called a *tab*.  Clicking on a
+particular tab will display it's content in the main view.
 
-At the top of the side bar is the **Miro Guide** tab.  Clicking on
-this tab brings up the Miro guide in the **main view**.
+Starting at the top, we have the following tabs:
 
-Next is the **Video Search** tab.  Clicking on this tab brings up the
-video search view.  This is covered more in
-:ref:`searching-video-websites`.
+* **Miro**
 
-Next is the **Library** section which is organized into four sub-tabs.
-It contains all the items that are cataloged by Miro, sorted by
-type. The **Video** tab holds video items, the **Audio** tab holds
-audio items, and the **Other** tab is a catch-all for everything
-else---for example, PDF files or images.  The **Downloading** tab
-shows you everything that is currently downloading or seeding.
+  Clicking on this tab brings up the Miro Guide in the **main view**.
 
-Next is the **Sources** section which holds sources for media.  A source 
-is any website you want bookmarked to view inside of Miro.  Sources are
-covered in :ref:`sources-chapter`.
+* **Videos**,  **Music**,  **Misc**, **Downloading**, **Converting**
 
-After that is the **Video feeds** section which holds video podcast
-feeds and the **Audio feeds** section which holds audio podcast feeds.
-Feeds are covered in :ref:`feeds-chapter`.
+  The **Videos** and **Music** tabs show you all the video and music
+  that you have in your Miro library.
 
-Following that is the **Playlists** section which holds playlists.
-Playlists are covered in :ref:`playlists-chapter`.
+  The **Misc** tab will show up if you have misc items that are
+  neither video nor music.  For example, if you downloaded a torrent
+  that has PDFs in it, those PDFs would show up in the **Misc** tab.
+  If you don't have any misc items, then this tab won't show up.
+
+  The **Downloading** tab shows up when you're downloading or
+  uploading.
+
+  The **Converting** tab shows up when you're converting items.
+
+* **Video Search**
+
+  Clicking on this tab brings up the video search view which allows
+  you to search Internet video sites for content.  This is covered
+  more in :ref:`searching-video-websites`.
+
+* **Connect**
+
+  The **Connect** tab manages shares and devices.  You can read more
+  about these things in :ref:`sharing-chapter` and
+  :ref:`devices-chapter`.
+
+* **Sources**
+
+  The **Sources** tab holds sources for media.  A source is any
+  website you want bookmarked to view inside of Miro.  Sources are
+  covered in :ref:`sources-chapter`.
+
+* **Stores**
+
+* **Podcasts**
+
+  The **Podcasts** section holds podcast feeds.  Podcasts are covered
+  in :ref:`podcasts-chapter`.
+
+* **Playlists**
+
+  The **Playlists** section holds playlists.  Playlists are covered in
+  :ref:`playlists-chapter`.
 
 
 .. index:: interface; main view
@@ -86,6 +110,7 @@ The main view
 
 There are several different kinds of main views depending on what's
 selected in the sidebar.
+
 
 .. index:: interface; browser view
 
@@ -104,19 +129,24 @@ in a browser outside of Miro.
 
 On Windows, the browser is XULRunner-based like Firefox.
 
-On GNU/Linux and OSX, the browser is Webkit-based like Safari.
+On GNU/Linux and OSX, the browser is Webkit-based like Safari and
+Chrome.
 
 
-.. index:: interface; item view
+.. index:: interface; standard view
 
 The item view
 -------------
 
-The item view has a header and a list of items in the view.  In the
-header you'll find the name of the view you're looking at and buttons
-for executing tasks related to that view and changing view settings.
+The standard view has a header and a list of items in the view.  In
+the header you'll find the name of the view you're looking at and
+buttons for executing tasks related to that view and changing view
+settings.
 
-This is a screenshot of a feed showing in the item view.
+In the footer, you'll find additional controls and that's where the
+bar that opens and closes the item details pane is located.
+
+This is a screenshot of a podcast showing in the item view.
 
 .. SCREENSHOT
    Screenshot of Miro with a feed selected showing an item view showing 
@@ -124,31 +154,29 @@ This is a screenshot of a feed showing in the item view.
 
 .. image:: _static/interface_item_view.png
 
-Miro can show the item list as a simple list or as larger blurbs with
-titles, descriptions and thumbnails.  You can toggle between these
-views using the toggle in the upper left hand corner of the item view:
+There's a toggle in the upper right hand corner of the item view that
+lets you toggle between "standard view" and "list view".
 
 .. SCREENSHOT
    Screenshot with closeup of the thumbnail/list view toggle.
 
 .. image:: _static/interface_listview_toggle.png
 
-The left button causes items to look like this:
+The left button shows the list of items in "standard view" and looks
+like this:
 
 .. SCREENSHOT
    Screenshot with closeup of item view showing thumbnails.
 
-.. image:: _static/interface_items_as_thumbnails.png
+.. image:: _static/interface_items_standardview.png
 
-Items can be sorted by clicking on the *Name*, *Date*, *Size* and
-*Time* headings.  Clicking on the heading twice will reverse the sort.
-
-Here's the same feed showing as a list:
+The right button shows the list of items in "list view" and looks like
+this:
 
 .. SCREENSHOT
-   Screenshot of Miro with a feed selected showing the item view as a list.
+   Screenshot with closeup of item view showing thumbnails.
 
-.. image:: _static/interface_items_as_list.png
+.. image:: _static/interface_items_listview.png
 
-Items can be sorted by clicking on the column headings.  Clicking
-twice will reverse the sort.
+Items can be sorted by clicking on the column headings.  Clicking on
+the column heading twice will reverse the sort.

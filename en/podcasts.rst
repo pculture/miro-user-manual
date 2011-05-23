@@ -1,4 +1,4 @@
-.. _feeds-chapter:
+.. _podcasts-chapter:
 
 =======
  Feeds
