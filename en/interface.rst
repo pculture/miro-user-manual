@@ -146,14 +146,6 @@ settings.
 In the footer, you'll find additional controls and that's where the
 bar that opens and closes the item details pane is located.
 
-This is a screenshot of a podcast showing in the item view.
-
-.. SCREENSHOT
-   Screenshot of Miro with a feed selected showing an item view showing 
-   thumbnails in the main view.
-
-.. image:: _static/interface_item_view.png
-
 There's a toggle in the upper right hand corner of the item view that
 lets you toggle between "standard view" and "list view".
 
