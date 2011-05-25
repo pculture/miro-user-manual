@@ -6,10 +6,10 @@
  Playlists
 ===========
 
-Playlists allow you to group a bunch of video or audio items into a
+Playlists allow you to group a bunch of video or music items into a
 single playlist and specify in what order they should be played.
 
-Playlists show up in the sidebar below the feeds.
+Playlists show up in the sidebar below the podcasts.
 
 
 .. index:: playlists; creating
@@ -48,7 +48,7 @@ To remove a playlist:
 Using playlists
 ===============
 
-You can drag media items from feeds and watched folders into the
+You can drag media items from podcasts and watched folders into the
 playlist.
 
 You can drag items in the playlist around to re-order them in the
