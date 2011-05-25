@@ -34,7 +34,7 @@ How to find converted items in Miro
 ===================================
 
 When the conversion is done, a new item will appear in your **Video**
-or **Audio** tab with the same name as the item that you converted
+or **Music** tab with the same name as the item that you converted
 with the target tacked on to the end.
 
 
