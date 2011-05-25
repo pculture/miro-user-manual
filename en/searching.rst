@@ -46,12 +46,11 @@ video search view.
    supports a handful of them.  If you would like to help us add
    support for additional websites, let us know.  
 
-   Additionally, Miro's support for some websites is mediocre.  If you
-   would like to help us make website support better, let us know.
+   Additionally, Miro's support for some websites could be bette.  If
+   you would like to help us make website support better, let us know.
 
    For more information on contributin, see :ref:`Contributing
    <contributing>`.
-
 
 
 .. index:: searching; saving a search
@@ -60,12 +59,12 @@ Saving a video website search
 =============================
 
 Once you've done a video website search, you can save that search as a
-feed.
+podcast.
 
-To do so, click on the **Save as a Feed** button.  
+To do so, click on the **Save as a Podcast** button.  
 
-The feed will now appear in your sidebar and will update along with
-all your other feeds.
+The podcast will now appear in your sidebar and will update along with
+all your other podcasts.
 
 
 .. index:: searching: finding items
@@ -75,13 +74,13 @@ all your other feeds.
 Searching podcasts for specific items
 =====================================
 
-Miro can let you search the titles, descriptions and filenames of all
-items in a feed for a search string making items easier to find.
+Miro can let you search the all the items in a podcast for a specified
+search string making items easier to find.
 
-1. Select the tab for the feed in the that you want to search.
+1. Select the tab for the podcast in the that you want to search.
 
    .. SCREENSHOT
-      Screenshot of feed selected and showing feed in main view
+      Screenshot of podcast selected and showing feed in main view
       with search box highlighted
 
    .. image:: _static/searching_feed_search.png
@@ -91,15 +90,15 @@ items in a feed for a search string making items easier to find.
    start typing, the view is filtered.
 
 
-.. index:: searching; saving a feed search
+.. index:: searching; saving a podcast search
 
-Saving a feed search
-====================
+Saving a podcast search
+=======================
 
-Once you've done a feed search, you can save this search as a filtered
-feed.  
+Once you've done a podcast search, you can save this search as a
+filtered podcast.
 
 To do so, enter in the search and then press the **Save Search**
 button.
 
-The filtered feed will now appear in your sidebar.
+The filtered podcast will now appear in your sidebar.

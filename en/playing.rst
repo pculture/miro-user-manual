@@ -7,7 +7,7 @@
 Playing items
 =============
 
-Once you've downloaded items from a feed, you can play them in the
+Once you've downloaded items from a podcast, you can play them in the
 Miro interface.
 
 1. Select the item you want to play.
@@ -25,19 +25,12 @@ Miro interface.
 Interface for playing video
 ===========================
 
-When playing video, Miro on GNU/Linux and Windows looks like this:
+When playing video, Miro looks like this:
 
 .. SCREENSHOT
-   Screenshot of Miro playing a video on GNU/Linux with parts labeled.
+   Screenshot of Miro playing a video on with parts labeled.
 
-.. image:: _static/playing_playing_video_linux.png
-
-When playing video, Miro on OSX looks like this:
-
-.. SCREENSHOT
-   Screenshot of Miro playing a video on OSX with parts labeled.
-
-.. image:: _static/playing_playing_video_osx.png
+.. image:: _static/playing_playing_video.png
 
 
 In this screenshot, you can see:
@@ -106,7 +99,7 @@ feeds and items and continue using the Miro interface.
 
    If you want Miro to always play video items in a detached window:
 
-   1. Choose the **Video** -> **Options** menu to open up the
+   1. Choose the **File** -> **Preferences** menu to open up the
       **Preferences** dialog.
 
    2. Click on the **Playback** tab.
@@ -162,9 +155,6 @@ If you want to view subtitles from a file you have downloaded:
 
 Interface for playing audio
 ===========================
-
-When playing an audio item, there is no video shown.  Instead, you can
-continue managing feeds and items and using the Miro interface.
 
 When playing audio items, Miro looks like this:
 
@@ -241,12 +231,13 @@ To play a single item with the external player:
 
    .. image:: _static/playing_play_externally_menu.png
 
+
 Configure Miro to play everything with an external player
 ---------------------------------------------------------
 
 To configure Miro to play everything with an external player:
 
-1. In the menu, select **Preferences**.
+1. Select the **File** -> **Preferences** menu item.
 2. Click on the **Playback** tab.
 3. Uncheck *Play media in Miro*.
 
@@ -266,4 +257,3 @@ consult your operating system documentation.
 .. Note::
 
    On GNU/Linux, this is done with ``gnome-open``.
-
