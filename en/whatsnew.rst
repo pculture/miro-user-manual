@@ -11,17 +11,36 @@ New features:
 
 1. **Better user interface**
 
+   We've gone through and cleaned up the interface making it easier
+   to use, more intuitive, and prettier.
+
 2. **Device syncing**
+
+   Sync media in Miro with your Android devices as well as any other
+   device that shows up as an external drive.
 
 3. **Sharing and streaming to other devices**
 
+   Miro can stream media to any DAAP client.  Additionally, you can
+   stream media from any DAAP client to Miro.
+
 4. **Amazon store access**
+
+   Miro makes it easier to purchase music from the Amazon store and
+   download it directly to Miro.
 
 5. **Metadata extraction**
 
+   Miro can extract metadata from media files like genres, album
+   titles, track numbers, artists, ...
+
 6. **Performance enhancements**
 
-See the `release notes for Miro 4.0 <https://develop.participatoryculture.org/index.php/4.0ReleaseNotes>`_.
+   We've implemented a variety of performance enhancements to make
+   Miro smoother and faster to respond.
+
+See the `release notes for Miro 4.0
+<https://develop.participatoryculture.org/index.php/4.0ReleaseNotes>`_.
 
 
 What's new in Miro 3.5
