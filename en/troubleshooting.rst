@@ -79,6 +79,7 @@ several reasons that this could happen:
    plugins.  This is distribution-specific, so you'll have to consult
    your distribution's documentation.
 
+
 If this is a perpetual problem, you can tell Miro to play all media
 with an external player in the **Preferences** dialog in the
 **Playback** tab.
@@ -103,7 +104,8 @@ If you're able to, implement the feature and attach a patch to the
 bug.
 
 We take all enhancement requests seriously, but it's not possible to
-implement all enhancements.
+implement all enhancements so we tend to implement enhancements we
+think are most beneficial to most of our users.
 
 
 When you find a bug
@@ -126,7 +128,9 @@ an explanation of how the patch fixes the problem.  Seriously.  This
 helps us a ton and greatly increase the chance your bug will be
 addressed.
 
-We take all bug reports seriously, but bugs take time to work through.
+We take all bug reports seriously, but bugs take time to work through
+and if there isn't enough information in the bug report, that makes it
+that much harder.
 
 See :ref:`Reporting bugs <reporting-bugs>` for more details and tips.
 
