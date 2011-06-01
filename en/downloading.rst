@@ -114,9 +114,16 @@ do.
 Torrents
 ========
 
-FIXME - flesh this out
+Miro is a torrent client and can download torrents.  You can download
+a torrent with Miro in the same ways that you can download any other
+media item.
 
-Miro is a torrent client.
+Once a torrent has completed downloading, it switches to seeding.
 
-* downloading torrents
-* resume seeding seeding
+The torrent will continue seeding until you press the **Stop seeding**
+button on the item.
+
+If you want to set an upload ratio so that Miro will automatically
+stop seeding an item when a specified upload to download ratio has
+been reached, you can set that in the :ref:`configuring-chapter`.
+
