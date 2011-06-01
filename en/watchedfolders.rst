@@ -19,19 +19,13 @@ Adding a watched folder
 
 To add a watched folder:
 
-1. Go to the **Folder** tab of the **Preferences** panel.
-
-   .. SCREENSHOT
-      Screenshot of Preferences in the Folders tab.
-
-   .. image:: _static/watchedfolders_add.png
-
-2. Click on the **Add** button.
-3. Select the folder you want Miro to watch.
-4. Click on the **Choose** button.
+1. Click on **File** -> **Import** -> **Watch a Folder** in the menus.
+2. Select the folder you want Miro to watch.
+3. Click on the **Add Folder** button.
 
 The watched folder will now show up in the feeds section of the
 sidebar with all the video and audio items in that directory.
+
 
 .. index:: watched folders; removing
 
@@ -40,7 +34,8 @@ Removing a watched folder
 
 To remove a watched folder:
 
-1. Go to the **Folder** tab of the **Preferences** panel.
+1. Select **File** -> **Preferences** in the menus.
+2. Click on the **Folder** tab.
 
    .. SCREENSHOT
       Screenshot of Preferences in the Folders tab with the Remove
@@ -48,5 +43,5 @@ To remove a watched folder:
 
    .. image:: _static/watchedfolders_remove.png
 
-2. Select the watched folder you want to remove.
-3. Click on the **Remove** button.
+3. Select the watched folder you want to remove.
+4. Click on the **Remove** button.
