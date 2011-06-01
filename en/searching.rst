@@ -83,7 +83,7 @@ search string making items easier to find.
       Screenshot of podcast selected and showing feed in main view
       with search box highlighted
 
-   .. image:: _static/searching_feed_search.png
+   .. image:: _static/searching_podcast_search.png
 
 2. In the upper right hand corner is a search box.  Type your search
    in here.  Searches are incremental meaning that as soon as you
