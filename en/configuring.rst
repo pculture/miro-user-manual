@@ -1,6 +1,6 @@
-.. _configuring-chapter:
-
 .. index:: preferences, configuring
+
+.. _configuring-chapter:
 
 ==================
  Configuring Miro
