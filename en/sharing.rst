@@ -18,9 +18,9 @@ Starting and stopping sharing
 =============================
 
 1. Click on the **Connect** tab in the sidebar
-2. To turn sharing on, click on the Off button in the **Miro Sharing**
+2. To turn sharing on, click on the Off toggle in the **Miro Sharing**
    section so that it says On.
-3. To turn sharing off, click on the On button in the **Miro Sharing**
+3. To turn sharing off, click on the On toggle in the **Miro Sharing**
    section so that it says Off.
 
 
