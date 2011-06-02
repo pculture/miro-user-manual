@@ -7,12 +7,10 @@
 Playing items
 =============
 
-Once you've downloaded items from a podcast, you can play them in the
-Miro interface.
-
 1. Select the item you want to play.
 
-2. Click on the play button.
+2. Click on the play button in the playback controls on the
+   bottom.
 
 .. SCREENSHOT
    Screenshot of Miro with both play buttons highlighted
@@ -43,16 +41,14 @@ In this screenshot, you can see:
 
 4. The play/pause button.
 
-5. The fullscreen button.
+5. The next button.
 
-6. The next button.
-
-7. The timeline showing how far into the media item you are, the
+6. The timeline showing how far into the media item you are, the
    current position, and how much is left.
 
-8. The name of the media item and the name of the feed it is in.
+7. The name of the media item and the name of the podcast it is in.
 
-9. The volume control.
+8. The volume control.
 
 
 .. index:: 
@@ -64,14 +60,14 @@ Shortcuts for playing video:
 =========================  ==========================
  **Shortcut**               **Action**
 -------------------------  --------------------------
- Space or Ctrl+Space        Play/Pause video
- Ctrl+D                     Stop video
- Ctrl+>                     Next video
- Ctrl+<                     Previous Video
- RIGHT or Shift+RIGHT       Skip forward 30 seconds
- LEFT or Shift+LEFT         Skip back 15 seconds
- UP arrow or Ctrl+UP        Volume up
- DOWN arrow or Ctrl+DOWN    Volume down
+ Space or Ctrl+Space        Play/Pause
+ Ctrl+D                     Stop
+ LEFT                       Next item
+ RIGHT                      Previous item
+ Shift+RIGHT                Skip forward 30 seconds
+ Shift+LEFT                 Skip back 15 seconds
+ Ctrl+UP                    Volume up
+ Ctrl+DOWN                  Volume down
  Ctrl+F                     Toggle fullscreen
  Ctrl+T                     Toggle detached playback
 =========================  ==========================
@@ -171,17 +167,14 @@ In this screenshot, you can see:
 
 3. The play/pause button.
 
-4. The fullscreen button (greyed out because this is disabled when
-   playing audio items).
+4. The next button.
 
-5. The next button.
-
-6. The timeline showing how far into the media item you are, the
+5. The timeline showing how far into the media item you are, the
    current position, and how much is left.
 
-7. The name of the media item and the name of the feed it is in.
+6. The name of the media item and the name of the podcast it is in.
 
-8. The volume control.
+7. The volume control.
 
 
 .. index:: 
@@ -193,17 +186,20 @@ Shortcuts for playing audio:
 =========================  ==========================
  **Shortcut**               **Action**
 -------------------------  --------------------------
- Space or Ctrl+Space        Play/Pause video
- Ctrl+D                     Stop video
- Ctrl+>                     Next video
- Ctrl+<                     Previous Video
+ Space or Ctrl+Space        Play/Pause
+ Ctrl+D                     Stop
+ LEFT                       Next item
+ RIGHT                      Previous item
  Shift+RIGHT                Skip forward 30 seconds
  Shift+LEFT                 Skip back 15 seconds
  Ctrl+UP                    Volume up
  Ctrl+DOWN                  Volume down
- Ctrl+F                     Toggle fullscreen
- Ctrl+T                     Toggle detached playback
 =========================  ==========================
+
+.. Note::
+
+   If you click on the name of the media item in the playback controls
+   area, Miro will center that item in the view.
 
 
 .. index:: playback; external playback
@@ -226,11 +222,6 @@ To play a single item with the external player:
 2. Right-click on the item to get the context menu.
 3. Select **Play Externally**.
 
-   .. SCREENSHOT
-      Screenshot of the play externally context-menu item.
-
-   .. image:: _static/playing_play_externally_menu.png
-
 
 Configure Miro to play everything with an external player
 ---------------------------------------------------------
@@ -240,12 +231,6 @@ To configure Miro to play everything with an external player:
 1. Select the **File** -> **Preferences** menu item.
 2. Click on the **Playback** tab.
 3. Uncheck *Play media in Miro*.
-
-   .. SCREENSHOT
-      Screenshot of the Play in Miro preference.
-
-   .. image:: _static/playing_play_externally_preference.png
-
 
 Whenever you play an item, Miro will pass the item to your operating
 system which will open the item in the application you have associated
