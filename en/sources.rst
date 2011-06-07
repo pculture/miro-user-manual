@@ -29,12 +29,6 @@ Adding a source
 To add a source:
 
 1. Click on the **Sidebar** menu, then click on **Add Source**.
-
-   .. SCREENSHOT
-      Screenshot of Add Source dialog showing.
-
-   .. image:: _static/sources_add.png
-
 2. Type in the url for the source you want to add.
 3. Click on the **OK** button.
 

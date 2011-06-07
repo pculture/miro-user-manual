@@ -21,6 +21,7 @@ To download an item from a podcast:
    an item list.
 
 .. image:: _static/downloading_podcast_item.png
+   :width: 800px
 
 
 .. index:: downloading; item from video search
@@ -37,6 +38,7 @@ Downloading an item from a video search
    video search list.
 
 .. image:: _static/downloading_video_search_item.png
+   :width: 800px
 
 
 .. index:: downloading; item from source 
@@ -51,6 +53,7 @@ Clicking on one of these links will download the item in Miro.
    Screenshot of Miro showing a website with links.
 
 .. image:: _static/downloading_site_with_links.png
+   :width: 800px
 
 Miro may recognize media items on websites like YouTube and you will
 see a **Download this video** button in the browser navigation bar.
@@ -61,6 +64,7 @@ Clicking on that button will download the item.
    button showing.
 
 .. image:: _static/downloading_download_this_video.png
+   :width: 800px
 
 
 .. index:: downloading; from url

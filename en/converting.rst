@@ -19,6 +19,7 @@ interface.
       "Convert to..." menu.
 
    .. image:: _static/converting_menu.png
+      :width: 800px
 
 3. The **Conversions** tab will show up in the sidebar.  Clicking on
    the **Conversions** tab in the sidebar will bring up the
@@ -28,6 +29,7 @@ interface.
       Screenshot of Miro Conversions tab.
 
    .. image:: _static/converting_tab.png
+      :width: 800px
 
 
 How to find converted items in Miro

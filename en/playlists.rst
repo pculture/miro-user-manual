@@ -20,12 +20,6 @@ Creating playlists
 To create a new playlist:
 
 1. Click on the **Playlists** menu item, then select **New Playlist**.
-
-   .. SCREENSHOT
-      Screenshot of New Playlist dialog
-
-   .. image:: _static/playlists_add.png
-
 2. Type in the name of the playlist.
 3. Click on the **OK** button.
 

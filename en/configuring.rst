@@ -90,7 +90,7 @@ Podcasts preferences
 .. SCREENSHOT
    Screenshot of Podcasts tab in Preferences.
 
-.. image:: _static/configuring_feeds_tab.png
+.. image:: _static/configuring_podcasts_tab.png
 
 These settings can be overridden on a per podcast basis in the
 **Podcasts Settings** dialog.  More information at
@@ -349,6 +349,8 @@ Sharing preferences
 .. SCREENSHOT
    Screenshot of the Sharing tab in the Preferences.
 
+.. image:: _static/configuring_sharing_tab.png
+
 .. index:: sharing; share media library
 
 *Share my media library*
@@ -431,6 +433,11 @@ Conversions preferences
 Stores preferences
 ==================
 
+.. SCREENSHOT
+   Screenshot of the Stores tab in Preferences.
+
+.. image:: _static/configuring_stores_tab.png
+
 .. index:: stores; selecting stores
 
 *MP3 Stores*
@@ -483,7 +490,8 @@ When you do that, you'll see this dialog:
 .. SCREENSHOT
    Screenshot of Podcast Settings dialog.
 
-.. image:: _static/configuring_feed_settings_dialog.png
+.. image:: _static/configuring_podcast_settings_dialog.png
+   :width: 800px
 
 .. index:: podcasts; pausing automatic downloading
 

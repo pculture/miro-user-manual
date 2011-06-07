@@ -16,6 +16,7 @@ Playing items
    Screenshot of Miro with both play buttons highlighted
 
 .. image:: _static/playing_play_buttons.png
+   :width: 800px
 
 
 .. index:: interface; playing video
@@ -29,26 +30,29 @@ When playing video, Miro looks like this:
    Screenshot of Miro playing a video on with parts labeled.
 
 .. image:: _static/playing_playing_video.png
+   :width: 800px
 
 
 In this screenshot, you can see:
 
-1. The view port where the video shows.
+1. The previous button.
 
-2. The previous button.
+2. The stop button.
 
-3. The stop button.
+3. The play/pause button.
 
-4. The play/pause button.
+4. The next button.
 
-5. The next button.
-
-6. The timeline showing how far into the media item you are, the
+5. The timeline showing how far into the media item you are, the
    current position, and how much is left.
 
-7. The name of the media item and the name of the podcast it is in.
+6. The name of the media item and the name of the podcast it is in.
 
-8. The volume control.
+7. The volume control.
+
+8. The shuffle toggle.  Toggles between Off and On.
+
+9. The repeat toggle.  Toggles between Off, Repeat All, and Repeat 1.
 
 
 .. index:: 
@@ -120,12 +124,6 @@ whether they're standalone files.
 When playing a video, to select a subtitle track:
 
 1. Click on the **Playback** menu.
-
-   .. SCREENSHOT
-      Screenshot of Miro playing a video with subtitle tracks showing.
-
-   .. image:: _static/playing_subtitles_tracks.png
-
 2. Select the **Subtitles** submenu.
 3. Choose a subtitle track.
 
@@ -135,13 +133,6 @@ If you want to view subtitles from a file you have downloaded:
 2. Click on the **Playback** menu.
 3. Select the **Subtitles** submenu.
 4. Select **Select a subtitles file**.
-
-   .. SCREENSHOT
-      Screenshot of Miro playing a video with the Subtitles submenu
-      showing.
-
-   .. image:: _static/playing_subtitles_submenu.png
-
 5. Find the subtitle file you want to open in the **Open Subtitles
    File...** file chooser dialog.
 6. Click on the **Open** button.
@@ -152,29 +143,9 @@ If you want to view subtitles from a file you have downloaded:
 Interface for playing audio
 ===========================
 
-When playing audio items, Miro looks like this:
-
-.. SCREENSHOT
-   Screenshot of Miro playing an audio item
-
-.. image:: _static/playing_playing_audio.png
-
-In this screenshot, you can see:
-
-1. The previous button.
-
-2. The stop button.
-
-3. The play/pause button.
-
-4. The next button.
-
-5. The timeline showing how far into the media item you are, the
-   current position, and how much is left.
-
-6. The name of the media item and the name of the podcast it is in.
-
-7. The volume control.
+When playing audio items, Miro looks just like it does when playing video
+however, since there's no video, you can continue to do things in the
+sidebar and main view.
 
 
 .. index:: 

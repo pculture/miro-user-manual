@@ -59,23 +59,10 @@ The following podcasts were used for screenshots and entertainment
 while writing the contents of this manual:
 
 * The Ben Heck Show - http://revision3.com/tbhs
-* GeekBeat.tv - http://geekbeat.tv/
-* FOSSCasts - http://fosscasts.com/
-* NPR: Wait Wait... Don't Tell Me -
-  http://www.npr.org/rss/podcast/podcast_detail.php?siteId=5183214
-* CSS Tricks - http://css-tricks.com/
-* MAKE Magazine - http://blog.makezine.com/podcast/
-* Food Mob - http://revision3.com/foodmob
-* Frostbite Media: This Week in Fedora - http://fedoraproject.org/wiki/TWiF
-* GeekNights - http://frontrowcrew.com/
-* Google Tech Talks - http://www.youtube.com/user/GoogleTechTalks
+* TED Talks - http://www.ted.com/talks
+* LifeHacker - http://revision3.com/lifehacker
+* This American Life - http://www.thisamericanlife.org/
 
-And these videos:
-
-* Linus Torvalds Introduces Linux 1.0 -
-  http://www.youtube.com/watch?v=qaDpjlFpbfo
-* Xiph.org Episode 1: A Digital Media Primer for Geeks -
-  http://xiph.org/video/
 
 License
 =======

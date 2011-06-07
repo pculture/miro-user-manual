@@ -109,6 +109,7 @@ clicking on a "ADD FEED TO YOUR SIDEBAR" button:
    Miro button.
 
 .. image:: _static/podcasts_miro_guide.png
+   :width: 800px
 
 
 Subscribing to a podcast through websites
@@ -139,11 +140,6 @@ feed for that podcast.
    podcast and you'll see the podcast show up in the sidebar in
    the **Podcasts** section.
 
-   .. SCREENSHOT
-      Screenshot of added podcast
-
-   .. image:: _static/podcasts_added_podcast.png
-
 
 .. index:: podcasts; removing
 
@@ -171,14 +167,7 @@ When deleting a podcast or several podcasts a confirmation dialog is
 displayed.  If you have downloads in progress, you are warned that the
 downloads will be cancelled.  If you have already downloaded items
 from these podcasts, you will have the option to keep or delete the
-downloaded items:
-
-.. SCREENSHOT
-
-   Screenshot of remove podcast dialog for removing a podcast with
-   items that are downloading and items in the podcast.
-
-.. image:: _static/podcasts_remove_podcast_dialog_with_text.png
+downloaded items.
 
 
 .. index:: podcasts; renaming

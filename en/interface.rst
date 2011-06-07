@@ -17,6 +17,7 @@ When you first start Miro, it looks something like this:
    4. playback bar
 
 .. image:: _static/interface_interface.png
+   :width: 800px
 
 The labeled areas are these:
 
@@ -121,6 +122,7 @@ The browser view
    Screenshot of Miro with the Miro Guide in the main view.
 
 .. image:: _static/interface_browser_view.png
+   :width: 800px
 
 Miro has a built-in web-browser.  There are browser controls along the
 top of the browser allowing you to go forward and backward in the
@@ -161,6 +163,7 @@ like this:
    Screenshot with closeup of item view showing thumbnails.
 
 .. image:: _static/interface_items_standardview.png
+   :width: 800px
 
 The right button shows the list of items in "list view" and looks like
 this:
@@ -169,6 +172,26 @@ this:
    Screenshot with closeup of item view showing thumbnails.
 
 .. image:: _static/interface_items_listview.png
+   :width: 800px
 
 Items can be sorted by clicking on the column headings.  Clicking on
 the column heading twice will reverse the sort.
+
+
+..index:: interface; details panel
+
+The details panel
+-----------------
+
+The list and standard views both have a details panel at the bottom
+that can be opened and closed by clicking on the top edge of the
+panel:
+
+.. SCREENSHOT
+   Screenshot of standard view with details panel open and arrow
+   pointing out details panel top edge.
+
+.. image:: _static/interface_details_panel.png
+   :width: 800px
+
+Click on the top edge of the panel to open and close it.

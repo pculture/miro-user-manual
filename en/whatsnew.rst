@@ -2,8 +2,8 @@
  What's new in Miro
 ====================
 
-What's new in Miro 4.0
-======================
+What's new in Miro 4
+====================
 
 Released on May 23rd, 2011.
 
@@ -121,38 +121,8 @@ Other changes:
 See the `release notes for Miro 3.5 <https://develop.participatoryculture.org/index.php/3.5ReleaseNotes>`_.
 
 
-What's new in Miro 3.0.3
-========================
-
-Released on July 26th, 2010.
-
-Miro 3.0.3 is a bugfix release.
-
-See the `release notes for Miro 3.0.3 <https://develop.participatoryculture.org/index.php/3.0ReleaseNotes>`_.
-
-
-What's new in Miro 3.0.2
-========================
-
-Released on May 23rd, 2010.
-
-Miro 3.0.2 is a bugfix release.
-
-See the `release notes for Miro 3.0.2 <https://develop.participatoryculture.org/index.php/3.0ReleaseNotes>`_.
-
-
-What's new in Miro 3.0.1
-========================
-
-Released on April 13th, 2010.
-
-Miro 3.0.1 is a bugfix release.
-
-See the `release notes for Miro 3.0.1 <https://develop.participatoryculture.org/index.php/wiki/3.0ReleaseNotes>`_.
-
-
-What's new in Miro 3.0
-======================
+What's new in Miro 3
+====================
 
 Released on March 23rd, 2010.
 

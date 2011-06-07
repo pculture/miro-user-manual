@@ -23,6 +23,7 @@ Miro allows you to search many popular video websites.
       video search in main view
 
    .. image:: _static/searching_video_search_tab.png
+      :width: 800px
 
 2. In the upper right hand corner of the view, there's a text box with
    a menu of icons on the left side.
@@ -84,6 +85,7 @@ search string making items easier to find.
       with search box highlighted
 
    .. image:: _static/searching_podcast_search.png
+      :width: 800px
 
 2. In the upper right hand corner is a search box.  Type your search
    in here.  Searches are incremental meaning that as soon as you
