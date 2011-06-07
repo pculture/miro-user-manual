@@ -32,8 +32,8 @@ various `EtherPad`_ instances..
 Screenshots on Linux were taken using `Shutter`_ and edited in
 `Gimp`_.  
 
-Screenshots on OSX were taken using `Skitch`_ and edited in
-`Gimp`_.
+Screenshots on OSX were taken using Command-Shift-4 and edited in
+Preview (sorry).
 
 .. _Emacs: http://www.gnu.org/software/emacs/
 .. _Restructured Text: http://docutils.sourceforge.net/rst.html
@@ -41,7 +41,6 @@ Screenshots on OSX were taken using `Skitch`_ and edited in
 .. _EtherPad: http://en.wikipedia.org/wiki/EtherPad
 .. _Shutter: http://shutter-project.org/
 .. _Gimp: http://www.gimp.org/
-.. _Skitch: http://skitch.com/
 
 
 How to help
