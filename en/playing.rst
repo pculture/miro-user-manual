@@ -70,8 +70,8 @@ Shortcuts for playing video:
  RIGHT                      Previous item
  Shift+RIGHT                Skip forward 30 seconds
  Shift+LEFT                 Skip back 15 seconds
- Ctrl+UP                    Volume up
- Ctrl+DOWN                  Volume down
+ UP or Ctrl+UP              Volume up
+ DOWN or Ctrl+DOWN          Volume down
  Ctrl+F                     Toggle fullscreen
  Ctrl+T                     Toggle detached playback
 =========================  ==========================
