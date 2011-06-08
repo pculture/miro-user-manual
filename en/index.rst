@@ -12,13 +12,6 @@ Contents
 
 Welcome to the User Manual for Miro |version|!  Last updated |today|.
 
-.. Note::
-
-   We're in the process of updating this manual, screenshots, and material.
-   We should have this done by May 25th.  If you'd like to help, hop on
-   IRC in the ``#miro-hackers`` on freenode.net and say hi!
-
-
 .. toctree::
    :maxdepth: 2
 
