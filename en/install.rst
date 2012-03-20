@@ -66,7 +66,7 @@ http://getmiro.com/download/all/ .
 
 Source code is maintained in a git repository.  Details and
 web-interface are available at
-http://git.participatoryculture.org/miro/ .
+http://github.com/pculture/miro
 
 
 All other platforms

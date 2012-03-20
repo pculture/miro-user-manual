@@ -8,8 +8,9 @@
 
 Kinds of devices:
 
+* Kindle Fire
 * Android phones (HTC Hero, HTC Desire, Nexus One, Motorola Droid, ...)
-* Android tablets (Galaxy Tab, Nook Color, ...)
+* Android tablets (Galaxy Tab, Nook Color, Xoom ...)
 * thumbdrives
 * external hard drives
 * digital cameras (Flip, ...)
@@ -40,6 +41,31 @@ If you have connected a device and don't see it in the sidebar:
 
 .. index:: devices; configuring settings
 
+Device Main Tab
+================
+
+The device main tab provides instructions for how to add files to your device manually
+as well as options to control disk use, configure automatic syncing and use the quick
+fill feature.
+
+When playlists and podcasts are configured for a particular device, Miro can be setup
+to sync automatically each time the device is connected.
+
+
+* *Sync Automatically when this device is connected*: Start syncing available files to the device anytime the device is connected.
+* *Don't fill more than [] percent of this device when syncing*: Control how much space items from Miro are allowed to use.
+
+.. SCREENSHOT
+   Screenshot of Device Main syncing option tab
+.. image:: _static/devices_main_sync.png
+
+* *Auto Fill*: Adds additional items to your devices based on amounts configured with the slider bars.
+
+.. SCREENSHOT
+   Screenshot of Device Main autofill option tab
+.. image:: _static/devices_main_autofill.png
+
+
 Device Settings
 ===============
 
@@ -55,6 +81,13 @@ Under settings you can specify:
 * *Audio Conversion*: Default to the format recognized by your device.
 * *Video storage directory*: Where Video files are stored on your device.
 * *Audio storage directory*: Where Audio files are stored on your device.
+* *Always show this device*: To always show a device when connected.
+* *Always convert videos before copying*: To force Miro to convert an item even if not required.
+
+.. SCREENSHOT
+   Screenshot of Device Settings tab 
+.. image:: _static/devices_settings.png
+
 
 For Audio and Video conversions, Miro defaults to the best setting for
 the detected device.  There is also a *Copy* option available if you
@@ -65,6 +98,11 @@ do not want or need to perform conversions with the syncing.
 
 Syncing media to your device
 ============================
+
+
+Choosing file to sync
+---------------------
+
 
 You can copy video and music files to your device either with a simple
 drag-and-drop or by configuring your settings to sync files from
@@ -78,20 +116,25 @@ To sync files by drag-and-drop:
 1. Select the file or files you want to sync
 2. Drag the files to the device tab in the sidebar
  
- 
+
 .. SCREENSHOT
  
-To automatically detect podcast files for syncing:
+To automatically detect **podcast** files for syncing:
 
 1. Click on the device in the sidebar
 2. Click on the **Podcasts** button in the Main View
 3. Check the *Sync Podcasts* checkbox
 4. Optionally choose to the box to sync only unplayed items
-5. Click the box alongside each podcast you would like to sync or
+5. Optionally choose to delete expired podcasts items from your device
+6. Click the box alongside each podcast you would like to sync or
    alternatively click the **Select All** button.
- 
-When Miro detects that files are available for syncing, the number of
-available files is displayed above the **Sync Now** button.
+
+
+.. SCREENSHOT
+   Screenshot of Device Podcast tab 
+.. image:: _static/devices_podcasts.png
+
+
  
 .. SCREENSHOT
  
@@ -101,7 +144,7 @@ You can use the **Cancel** button to halt the syncing process.
  
 .. SCREENSHOT
  
-To automatically detect playlist items for syncing:
+To automatically detect **playlist** items for syncing:
 
 1. Click on the device in the sidebar
 2. Click on the **Playlists** button in the main view
@@ -109,6 +152,14 @@ To automatically detect playlist items for syncing:
 4. Optionally choose to the box to sync only unplayed items
 5. Click the box alongside each playlist you would like to sync or
    alternatively click the **Select All** button
+
+
+As additional items are added to the playlist, they will be added to
+the list of items available for syncing.
+
+Syncing the files
+-----------------
+
  
 When Miro detects that files are available for syncing, the number of
 available files is displayed above the **Sync Now** button.
@@ -117,11 +168,12 @@ Click **Sync Now** to start the sync process.
 
 You can use the **Cancel** button to halt the syncing process.
 
-As additional items are added to the playlist, they will be added to
-the list of items available for syncing.
-
+The progress bar along the bottom indicates the time required for the files to sync.
 
 .. index:: devices; syncing media from device
+
+
+
 
 Syncing media from your device
 ==============================
