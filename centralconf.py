@@ -63,6 +63,7 @@ html_theme_options = {
     'footerbgcolor': '#b11818',
     'sidebarbgcolor': '#6a0000',
     'relbarbgcolor': '#b11818',
+    'rightsidebar': 'true',
     }
 
 # Add any paths that contain custom themes here, relative to this directory.
