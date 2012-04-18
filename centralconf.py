@@ -59,10 +59,17 @@ html_theme = 'default'
 # further.  For a list of options available for each theme, see the
 # documentation.
 html_theme_options = {
-    'headbgcolor': '#fdeded',
+    'headbgcolor': '#f7be81',
     'footerbgcolor': '#b11818',
     'sidebarbgcolor': '#6a0000',
     'relbarbgcolor': '#b11818',
+    'rightsidebar': 'true',
+#   'headbgcolor': '#f7be81',
+#    'footerbgcolor': '#8c001a',
+#    'sidebarbgcolor': '#cd5c5c',
+#    'relbarbgcolor': '#8c001a',
+#    'rightsidebar': 'true',
+    'bgcolor': '#f5f5f5',
     }
 
 # Add any paths that contain custom themes here, relative to this directory.
@@ -131,7 +138,7 @@ htmlhelp_basename = 'MiroUserManualdoc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'MiroUserManual.tex', u'User Manual for Miro 4.0',
+  ('index', 'MiroUserManual.tex', u'User Manual for Miro 5.0',
    u'Will Kahn-Greene', 'manual'),
 ]
 

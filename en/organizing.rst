@@ -1,16 +1,13 @@
-=======================
- Organizing your media
-=======================
-
-.. index:: organizing
-
-.. _organizing-chapter:
 
 =================================
  Organizing Music and Video Items
 =================================
 
-This chapter organizing music and video files in Miro.
+.. index:: organizing
+
+.. _organizing-chapter:
+
+This chapter tells you how you can use Miro to organize your music and video file.
 
 
 Edit Metadata Panel
@@ -23,8 +20,8 @@ The dialog is accessible via the menus.  The menu option is activated when eithe
 
 Open the *Edit Metadata* panel:
 
-
 Select 1 or several items then use one of the methods below to open the panel:
+
 1. Right-click context menu
 2. Item context menu
 3. File -> Edit Item
@@ -66,6 +63,7 @@ Editing Item Type
 =================
 
 Items are automatically catagorized by miro as:
+
 1. Music
 2. Video
 3. Misc
@@ -75,6 +73,7 @@ Files are displayed in the corresponding library tab.
 In the case that Miro metadata processes have mis-categorized an item, the user can manually change the item type setting either by dragging the item to the tab that represents the desired file type, or by editing it via the Edit Item Details panel.
 
 To change a file type:
+
 1. Click on the item or items
 2. Drag and Drop them into the Sidebar tab the represents the choosen type.
 
@@ -85,6 +84,7 @@ Video Kind
 ==========
 
 **Video Kind** is a user specified metadata field. The **Videos** sidebar tab has filters for:
+
 1. Movies
 2. Shows
 3. Clips
@@ -94,7 +94,7 @@ Video Kind
    Screenshot of the Videos tab filters
 
 .. image:: _static/video_tab_filters.png
-   :width: 600px
+   :width: 300px
 
 
 To edit the Video Kind using a menu option:
@@ -131,11 +131,11 @@ When installing Miro for the first time:  an option to turn on lookup is provide
 
 .. image:: _static/organizing_install_music_setup.png
 
-Clicking **Music** tab are upgrade from pre-5.0 version
--------------------------------------------------------
+Clicking **Music** tab after upgrading from Miro 4 or earlier
+-------------------------------------------------------------
 
 If Miro is upgraded from a version earlier than Miro 5.0.  The first time the **Music** tab is
-clicked, a dialog display asking to use the song info lookup.
+clicked, a dialog is displayed and asks the user if they want to use the song info lookup.
 
 
 .. SCREENSHOT
@@ -144,13 +144,13 @@ clicked, a dialog display asking to use the song info lookup.
 .. image:: _static/organizing_first_time_music_clicked.png
 
 
-Turning *on* / *off* Lookup from the Preferences Panel
+Turning *On* / *Off* Lookup from the Preferences Panel
 ------------------------------------------------------
 
 The **Preferences Panel** *General tab* controls turning metadata lookup on and off for all audio files
 or for newly added music files. 
 
-This is covered in: ref:`configuring-chapter`.
+This is covered in :ref:`configuring-chapter`. 
 
 To run lookup for all audio files:
     Click *Run Online Lookup for All Current Music*
@@ -169,7 +169,7 @@ To lookup information for all newly added items:
 
 
 
-Toggling *on* and *off* Lookup from the File Menu
+Toggling *On* and *Off* Lookup from the File Menu
 -------------------------------------------------
 
 To toggle the use of echonest data for one or a few items:
@@ -182,32 +182,22 @@ To toggle the use of echonest data for one or a few items:
    Screenshot of the first time music clicked
 
 .. image:: _static/organizing_lookup_file_menu.png
-   :width: 600px
+   :width: 500px
 
 
-Toggling *on* and *off* Lookup from the Context Menu
+Toggling *On* and *Off* Lookup from the Context Menu
 ----------------------------------------------------
 
 To toggle the use of echonest data for one or a few items:
 
 1. Select the item or items
 2. Open the *context* menu
-3. Choose *Use album art and song info from online lookup database (Echonest)
+3. Choose *[Don't] Use Online Lookup Data*
 
 .. SCREENSHOT
    Screenshot of the first time music clicked
 
 .. image:: _static/organizing_context_lookup_on.png
-   :width: 600px
-
-4. Choose *Don't Use Online Lookup Data* to toggle the setting off.
-
-.. SCREENSHOT
-   Screenshot of the first time music clicked
-
-.. image:: _static/organizing_context_lookup_off.png
-   :width: 600px
-
-
+   :width: 200px
 
 
