@@ -7,16 +7,18 @@ What's new in Miro 5
 ====================
 
 
-Released on ZZZ xxrd, 201Z.
+Released on May 1st, 2012.
 
 New features:
 
 1. **Song information and Album art lookup**
+
    Clean up your music collection by automatically looking up 
    the Artist, correct title, and album name and artwork among other thing.  
 
 
 2. **Hybrid Filter View**
+
    A clean view to group togther all your songs by Album and Artist.  
    Clean way to view video items by kind (Movies, Clips, Podcasts...)
 
@@ -24,6 +26,7 @@ New features:
 
 
 4. **Purchase music from eMusic**
+
    We've add eMusic to our list of store so you can grow you music collection.
 
 See the `release notes for Miro 5.0
