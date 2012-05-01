@@ -21,6 +21,7 @@ Welcome to the User Manual for Miro |version|!  Last updated |today|.
    interface
    podcasts 
    downloading
+   organizing
    playing
    searching
    converting

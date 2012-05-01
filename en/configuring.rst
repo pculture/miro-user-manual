@@ -8,7 +8,7 @@
 
 This chapter covers configuring Miro.
 
-Configuring Miro happens in two places:
+Configuring Miro happens in a two places:
 
 1. In the **Preferences** dialog which affects all of Miro.  You can
    find the **Preferences** dialog from the **File** ->
@@ -17,7 +17,6 @@ Configuring Miro happens in two places:
    podcast.  You can find the **Podcast Settings** dialog by clicking
    on a podcast in the sidebar, then clicking on the **Settings**
    button at the bottom.
-
 
 General preferences
 ===================
@@ -74,6 +73,18 @@ General preferences
        Miro for changes to take effect.
 
 .. index:: trayicon, system tray, status tray
+
+*Music Album Art and Info Cleanup*
+    
+    Click *Run Online Lookup for All Current Music* to enable Miro to retrieve album
+    art and song information from Echonests (info) and 7Digital (art).
+
+    Click *Remove All Lookup Data* to remove any retrieved data from the items in the main view.
+
+    Check *Automatically run online lookup for any new audio files  that I add to Miro* if you
+    want Miro look up information each time a new item is added.
+
+.. index:: metadata; album art; echonest; 7digital;
 
 *Enable tray icon*
 

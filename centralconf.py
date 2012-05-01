@@ -132,7 +132,7 @@ htmlhelp_basename = 'MiroUserManualdoc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'MiroUserManual.tex', u'User Manual for Miro 4.0',
+  ('index', 'MiroUserManual.tex', u'User Manual for Miro 5.0',
    u'Will Kahn-Greene', 'manual'),
 ]
 
