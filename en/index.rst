@@ -46,6 +46,8 @@ Indices and tables
 Manuals for older versions of Miro
 ==================================
 
+Miro 4.0, 4.0.1, 4.0.2, 4.0.3, 4.0.4, 4.0.5, 4.0.6: http://manual.getmiro.com/4/
+
 Miro 3.5, 3.5.1: http://manual.getmiro.com/3.5/
 
 Miro 3.0, 3.0.1, 3.0.2, 3.0.3: http://manual.getmiro.com/3/
